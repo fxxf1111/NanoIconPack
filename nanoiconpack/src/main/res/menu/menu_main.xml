@@ -31,10 +31,10 @@
 <!--        android:visible="false"-->
 <!--        app:showAsAction="never" />-->
 
-    <item
-        android:id="@+id/menu_apply"
-        android:title="@string/menu_apply"
-        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/menu_apply"-->
+<!--        android:title="@string/menu_apply"-->
+<!--        app:showAsAction="never" />-->
 
 <!--    <item-->
 <!--        android:id="@+id/menu_about"-->
