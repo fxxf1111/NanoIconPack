@@ -37,10 +37,10 @@
         android:icon="?attr/ic_action_apply"
         app:showAsAction="ifRoom" />
 
-    <item
-        android:id="@+id/menu_about"
-        android:title="@string/menu_about"
-        android:icon="?attr/ic_action_copyright"
-        app:showAsAction="ifRoom" />
+<!--    <item-->
+<!--        android:id="@+id/menu_about"-->
+<!--        android:title="@string/menu_about"-->
+<!--        android:icon="?attr/ic_action_copyright"-->
+<!--        app:showAsAction="ifRoom" />-->
 
 </menu>

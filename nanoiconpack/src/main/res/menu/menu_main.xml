@@ -24,21 +24,21 @@
         android:icon="?attr/ic_action_search"
         app:showAsAction="ifRoom" />
 
-    <item
-        android:id="@+id/menu_whats_new"
-        android:title="@string/menu_whats_new"
-        android:icon="?attr/ic_action_new"
-        android:visible="false"
-        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/menu_whats_new"-->
+<!--        android:title="@string/menu_whats_new"-->
+<!--        android:icon="?attr/ic_action_new"-->
+<!--        android:visible="false"-->
+<!--        app:showAsAction="never" />-->
 
     <item
         android:id="@+id/menu_apply"
         android:title="@string/menu_apply"
         app:showAsAction="never" />
 
-    <item
-        android:id="@+id/menu_about"
-        android:title="@string/menu_about"
-        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/menu_about"-->
+<!--        android:title="@string/menu_about"-->
+<!--        app:showAsAction="never" />-->
 
 </menu>

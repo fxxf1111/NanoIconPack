@@ -22,7 +22,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.util.SparseArray;
 
-import com.by_syk.lib.nanoiconpack.bean.AppBean;
 import com.by_syk.lib.nanoiconpack.bean.IconBean;
 
 import java.util.List;
@@ -33,8 +32,6 @@ import java.util.List;
 
 public class RetainedFragment extends Fragment {
     private SparseArray<List<IconBean>> iconListArray = new SparseArray<>();
-    private List<AppBean> appList = null;
-    private List<AppBean> reqTopList = null;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -47,38 +44,21 @@ public class RetainedFragment extends Fragment {
         iconListArray.put(pageId, iconList);
     }
 
-    public void setAppList(List<AppBean> appList) {
-        this.appList = appList;
-    }
 
-    public void setReqTopList(List<AppBean> reqTopList) {
-        this.reqTopList = reqTopList;
-    }
 
     public List<IconBean> getIconList(int pageId) {
         return iconListArray.get(pageId);
     }
 
-    public List<AppBean> getAppList() {
-        return appList;
-    }
 
-    public List<AppBean> getReqTopList() {
-        return reqTopList;
-    }
+
 
     public boolean isIconListSaved(int pageId) {
         List<IconBean> dataList = iconListArray.get(pageId);
         return dataList != null && !dataList.isEmpty();
     }
 
-    public boolean isAppListSaved() {
-        return appList != null && !appList.isEmpty();
-    }
 
-    public boolean isReqTopListSaved() {
-        return reqTopList != null && !reqTopList.isEmpty();
-    }
 
     @NonNull
     public static RetainedFragment initRetainedFragment(@NonNull FragmentManager fragmentManager,
