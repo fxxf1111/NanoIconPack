@@ -37,6 +37,7 @@ import android.text.SpannableString;
 import android.view.View;
 import android.view.Window;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.by_syk.lib.nanoiconpack.R;
 import com.by_syk.lib.nanoiconpack.bean.IconBean;
@@ -196,6 +197,10 @@ public class IconDialog extends DialogFragment {
     }
 
     private SpannableString getTitle(@NonNull IconBean bean) {
+//        SpannableString spannableString = new SpannableString(bean.);
+
+
+
         TextTag.Builder builder = new TextTag.Builder()
                 .text(iconBean.getLabel() != null ? iconBean.getLabel() : iconBean.getName())
                 .bgColor(Color.GRAY);

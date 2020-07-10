@@ -40,7 +40,6 @@ import com.by_syk.lib.nanoiconpack.util.PkgUtil;
 import com.by_syk.lib.nanoiconpack.util.SimplePageTransformer;
 import com.by_syk.lib.sp.SP;
 
-import uk.co.samuelwall.materialtaptargetprompt.MaterialTapTargetPrompt;
 
 /**
  * Created by By_syk on 2016-07-16.
