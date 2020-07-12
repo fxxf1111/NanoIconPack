@@ -31,5 +31,6 @@ public class HelloActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         // Do nothing.
+
     }
 }
