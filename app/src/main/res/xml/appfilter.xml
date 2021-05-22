@@ -519,7 +519,7 @@
     <!-- "图标 锤子【FolderOK 无网】.apk" -->
     <item component="ComponentInfo{com.trance.icon.smarttan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="d_smarttan"/>
     <!-- "TISAN图标包.apk.apk" -->
-    <item component="ComponentInfo{com.douerhao.tisan/cn.ommiao.iconpacktemplate.MainActivity}" drawable="d_tisan"/>
+    <item component="ComponentInfo{com.trance.icon.mytisan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="d_tisan"/>
 
 
 
