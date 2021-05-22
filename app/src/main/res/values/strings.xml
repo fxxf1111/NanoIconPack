@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App name -->
-    <string name="app_name">MyIOS></string>
+    <string name="app_name">ios></string>
 
     <!-- For Apex Launcher, means icon pack author -->
     <string name="developer_name">Trance</string>
