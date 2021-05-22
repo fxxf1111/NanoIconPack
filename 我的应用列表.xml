@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<!-- "通讯录（系统） -->
+<item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="a_contacts" />
+	<item component="ComponentInfo{com.oneplus.contacts2/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="a_contacts2" />
+	<item component="ComponentInfo{com.oneplus.contacts3/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="a_contacts3" />
+	<item component="ComponentInfo{com.oneplus.contacts4/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="a_contacts4" />
+<!-- a_系统-通讯 联系人simple_V6.13.1 -->
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Grey_black}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Blue_grey}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Brown}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Deep_orange}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Amber}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Yellow}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Lime}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Light_green}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Green}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Teal}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Cyan}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Light_blue}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Blue}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Indigo}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Deep_purple}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Purple}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Pink}" drawable="a_contacts"/>
+<item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Red}" drawable="a_contacts"/>
+	
+	
+<!-- "电话（系统） -->
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="a_phone" />
+<item component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.DialerActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.WtDialerActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.mms/com.yulong.android.contacts.dial.DialActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.android.mms/com.yulong.android.contacts.ui.main.ContactMainActivity}" drawable="a_phone"/>
+<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="a_phone"/>
+<!-- a_系统-拨号simple-V5.5.4 -->
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Grey_black}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Blue_grey}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Brown}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Deep_orange}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Amber}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Yellow}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Lime}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Light_green}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Green}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Teal}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Cyan}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Light_blue}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Blue}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Indigo}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Deep_purple}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Purple}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Pink}" drawable="a_phone"/>
+<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Red}" drawable="a_phone"/>
+	<item component="ComponentInfo{com.simplemobiletools.dialer2/com.simplemobiletools.dialer.activities.SplashActivity.Red}" drawable="a_phone2"/>
+	<item component="ComponentInfo{com.simplemobiletools.dialer3/com.simplemobiletools.dialer.activities.SplashActivity.Red}" drawable="a_phone3"/>
+	<item component="ComponentInfo{com.simplemobiletools.dialer4/com.simplemobiletools.dialer.activities.SplashActivity.Red}" drawable="a_phone4"/>
+	<item component="ComponentInfo{com.simplemobiletools.dialer5/com.simplemobiletools.dialer.activities.SplashActivity.Red}" drawable="a_phone5"/>
+
+	
+<!-- 短信QKSMS-v3.9.4 -->
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="a_sms" />
+	<item component="ComponentInfo{com.moez.QKSMS2/com.moez.QKSMS.feature.main.MainActivity}" drawable="a_sms2" />
+	<item component="ComponentInfo{com.moez.QKSMS3/com.moez.QKSMS.feature.main.MainActivity}" drawable="a_sms3" />
+	<item component="ComponentInfo{com.moez.QKSMS4/com.moez.QKSMS.feature.main.MainActivity}" drawable="a_sms4" />
+	<item component="ComponentInfo{com.moez.QKSMS5/com.moez.QKSMS.feature.main.MainActivity}" drawable="a_sms5" />
+	<item component="ComponentInfo{com.moez.QKSMS6/com.moez.QKSMS.feature.main.MainActivity}" drawable="a_sms6" />
+
+
+
+<!-- "设置" -->
+<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="a_settings" />
+<item component="ComponentInfo{com.android.settings/com.android.settings.GnSettingsTabActivity}" drawable="a_settings"/>
+<item component="ComponentInfo{com.android.settings/com.android.settings.GridSettings}" drawable="a_settings"/>
+<item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="a_settings"/>
+<item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="a_settings"/>
+<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="a_settings"/>
+	<item component="ComponentInfo{com.android.settings2/com.android.settings.Settings}" drawable="a_settings3"/>
+	<item component="ComponentInfo{com.android.settings3/com.android.settings.Settings}" drawable="a_settings2"/>
+	
+
+	
+	
+	
+<!-- "时钟（系统）" -->
+<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="a_clock"/>
+<!-- a_系统-时钟Simple-5.4.0 -->
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Blue_grey}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Brown}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Deep_orange}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Amber}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Yellow}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Lime}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Light_green}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Green}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Teal}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Cyan}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Light_blue}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Blue}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Indigo}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Deep_purple}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Purple}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Pink}" drawable="a_clock"/>
+<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock3/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock2"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock2/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock3"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock4/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock4"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock5/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock5"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock6/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock6"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock7/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock7"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock8/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock8"/>
+	<item component="ComponentInfo{com.simplemobiletools.clock9/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="a_clock9"/>
+
+
+
+
+
+<!-- "相机（系统）" -->
+<item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="a_camera"/>
+<!-- a_系统-相机Simple5.2.3 -->
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Grey_black}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Blue_grey}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Brown}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Deep_orange}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Amber}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Yellow}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Lime}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Light_green}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Green}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Teal}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Cyan}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Light_blue}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Blue}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Indigo}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Deep_purple}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Purple}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Pink}" drawable="a_camera"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Red}" drawable="a_camera"/>
+<!-- a_NoNet-谷歌相机GCam -->
+<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="a_camera"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera2/com.android.camera.CameraLauncher}" drawable="a_camera2"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera3/com.android.camera.CameraLauncher}" drawable="a_camera3"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera4/com.android.camera.CameraLauncher}" drawable="a_camera4"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera5/com.android.camera.CameraLauncher}" drawable="a_camera5"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera6/com.android.camera.CameraLauncher}" drawable="a_camera6"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera7/com.android.camera.CameraLauncher}" drawable="a_camera7"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera8/com.android.camera.CameraLauncher}" drawable="a_camera8"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera9/com.android.camera.CameraLauncher}" drawable="a_camera9"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera10/com.android.camera.CameraLauncher}" drawable="a_camera10"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera11/com.android.camera.CameraLauncher}" drawable="a_camera11"/>
+	<item component="ComponentInfo{com.google.android.GoogleCamera12/com.android.camera.CameraLauncher}" drawable="a_camera12"/>
+
+
+
+<!-- a_系统-图库simple_v6.19.6 -->
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Grey_black}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Blue_grey}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Brown}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Deep_orange}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Amber}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Yellow}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Lime}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_green}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Cyan}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_blue}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Blue}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Indigo}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Deep_purple}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Pink}" drawable="a_gallery"/>
+<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro2/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery2"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro3/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery3"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro4/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery4"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro5/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery5"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro6/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery6"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro7/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery7"/>
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro8/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="a_gallery8"/>
+
+
+
+<!-- iceraven-1.10.0forkRelease -->
+<item component="ComponentInfo{io.github.forkmaintainers.iceraven/org.mozilla.fenix.HomeActivity}" drawable="b_firefox"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven2/org.mozilla.fenix.HomeActivity}" drawable="b_firefox2"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven3/org.mozilla.fenix.HomeActivity}" drawable="b_firefox3"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven4/org.mozilla.fenix.HomeActivity}" drawable="b_firefox4"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven5/org.mozilla.fenix.HomeActivity}" drawable="b_firefox5"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven6/org.mozilla.fenix.HomeActivity}" drawable="b_firefox6"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven7/org.mozilla.fenix.HomeActivity}" drawable="b_firefox7"/>
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven8/org.mozilla.fenix.HomeActivity}" drawable="b_firefox8"/>
+<!-- a_NoNet-搜狗输入法三星版8.36.38 -->
+<item component="ComponentInfo{com.sohu.inputmethod.sogou.samsung/com.sohu.inputmethod.sogou.SogouIMEHomeActivity}" drawable="b_shougou"/>
+<!-- a_系统-录音-3.4.3 -->
+<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder2/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record2"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder3/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record3"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder4/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record4"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder5/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record5"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder6/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record6"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder7/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record7"/>
+	<item component="ComponentInfo{com.github.axet.audiorecorder8/com.github.axet.audiorecorder.activities.MainActivity}" drawable="b_record8"/>
+<!-- a_系统-文件_v1.2.1 -->
+<item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="b_file"/>
+	<item component="ComponentInfo{me.zhanghai.android.files3/me.zhanghai.android.files.filelist.FileListActivity}" drawable="b_file2"/>
+	<item component="ComponentInfo{me.zhanghai.android.files2/me.zhanghai.android.files.filelist.FileListActivity}" drawable="b_file3"/>
+	<item component="ComponentInfo{me.zhanghai.android.files4/me.zhanghai.android.files.filelist.FileListActivity}" drawable="b_file4"/>
+<!-- b_工具-几何天气_10002 -->
+<item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather2/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather2"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather3/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather3"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather4/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather4"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather5/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather5"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather6/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather6"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather7/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather7"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather8/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather8"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather9/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather9"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather10/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather10"/>
+	<item component="ComponentInfo{wangdaye.com.geometricweather11/wangdaye.com.geometricweather.main.MainActivity}" drawable="a_weather11"/>
+<!-- b_工具-邮箱k9V5.726 -->
+<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="b_mail"/>
+	<item component="ComponentInfo{com.fsck.k92/com.fsck.k9.activity.MessageList}" drawable="b_mail2"/>
+	<item component="ComponentInfo{com.fsck.k93/com.fsck.k9.activity.MessageList}" drawable="b_mail3"/>
+	<item component="ComponentInfo{com.fsck.k94/com.fsck.k9.activity.MessageList}" drawable="b_mail4"/>
+	<item component="ComponentInfo{com.fsck.k95/com.fsck.k9.activity.MessageList}" drawable="b_mail5"/>
+	<item component="ComponentInfo{com.fsck.k96/com.fsck.k9.activity.MessageList}" drawable="b_mail6"/>
+	<item component="ComponentInfo{com.fsck.k97/com.fsck.k9.activity.MessageList}" drawable="b_mail7"/>
+<!-- 截屏-V1.0 -->
+<item component="ComponentInfo{com.androidyuan.androidscreenshot_sysapi/com.androidyuan.androidscreenshot_sysapi.ExampleActivity}" drawable="b_screen"/>
+	<item component="ComponentInfo{com.androidyuan.androidscreenshot_sysapi3/com.androidyuan.androidscreenshot_sysapi.ExampleActivity}" drawable="b_screen2"/>
+	<item component="ComponentInfo{com.androidyuan.androidscreenshot_sysapi2/com.androidyuan.androidscreenshot_sysapi.ExampleActivity}" drawable="b_screen3"/>
+<!-- 音乐APlayer_v1.5.7.4 -->
+<item component="ComponentInfo{remix.myplayer/remix.myplayer.ui.activity.MainActivity}" drawable="b_music"/>
+	<item component="ComponentInfo{remix.myplayer2/remix.myplayer.ui.activity.MainActivity}" drawable="b_music2"/>
+	<item component="ComponentInfo{remix.myplayer3/remix.myplayer.ui.activity.MainActivity}" drawable="b_music3"/>
+	<item component="ComponentInfo{remix.myplayer4/remix.myplayer.ui.activity.MainActivity}" drawable="b_music4"/>
+	<item component="ComponentInfo{remix.myplayer5/remix.myplayer.ui.activity.MainActivity}" drawable="b_music5"/>
+	<item component="ComponentInfo{remix.myplayer6/remix.myplayer.ui.activity.MainActivity}" drawable="b_music6"/>
+	<item component="ComponentInfo{remix.myplayer7/remix.myplayer.ui.activity.MainActivity}" drawable="b_music7"/>
+	<item component="ComponentInfo{remix.myplayer8/remix.myplayer.ui.activity.MainActivity}" drawable="b_music8"/>
+	<item component="ComponentInfo{remix.myplayer9/remix.myplayer.ui.activity.MainActivity}" drawable="b_music9"/>
+	<item component="ComponentInfo{remix.myplayer10/remix.myplayer.ui.activity.MainActivity}" drawable="b_music10"/>
+	<item component="ComponentInfo{remix.myplayer11/remix.myplayer.ui.activity.MainActivity}" drawable="b_music11"/>
+	<item component="ComponentInfo{remix.myplayer12/remix.myplayer.ui.activity.MainActivity}" drawable="b_music12"/>
+	<item component="ComponentInfo{remix.myplayer13/remix.myplayer.ui.activity.MainActivity}" drawable="b_music13"/>
+<!-- a_NoNet-WPS_9.7 -->
+<item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="b_wps"/>
+	<item component="ComponentInfo{cn.wps.moffice_eng2/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="b_wps2"/>
+<!-- a_NoNet-ZArchiver_Pro-v0.9.4 -->
+<item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="b_zarchiver"/>
+	<item component="ComponentInfo{ru.zdevs.zarchiver.pro2/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="b_zarchiver2"/>
+<!-- a_NoNet-日历 -->
+<item component="ComponentInfo{com.mrtang.calendar/com.mrtang.calendar.client.MainActivity}" drawable="b_calendar"/>
+	<item component="ComponentInfo{com.mrtang.calendar2/com.mrtang.calendar.client.MainActivity}" drawable="b_calendar2"/>
+	<item component="ComponentInfo{com.mrtang.calendar3/com.mrtang.calendar.client.MainActivity}" drawable="b_calendar3"/>
+	<item component="ComponentInfo{com.mrtang.calendar4/com.mrtang.calendar.client.MainActivity}" drawable="b_calendar4"/>
+<!-- a_NoNet-计算器-1.0 -->
+<item component="ComponentInfo{com.example.ljh99.calculator/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator"/>
+	<item component="ComponentInfo{com.example.ljh99.calculator2/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator2"/>
+	<item component="ComponentInfo{com.example.ljh99.calculator3/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator3"/>
+	<item component="ComponentInfo{com.example.ljh99.calculator4/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator4"/>
+	<item component="ComponentInfo{com.example.ljh99.calculator5/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator5"/>
+	<item component="ComponentInfo{com.example.ljh99.calculator6/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator6"/>
+	<item component="ComponentInfo{com.example.ljh99.calculator7/com.example.ljh99.calculator.MainActivity}" drawable="b_calculator7"/>
+<!-- b_工具-VLC-3.3.c_ -->
+<item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="b_vlc"/>
+	<item component="ComponentInfo{org.videolan.vlc2/org.videolan.vlc.StartActivity}" drawable="b_vlc2"/>
+	<item component="ComponentInfo{org.videolan.vlc3/org.videolan.vlc.StartActivity}" drawable="b_vlc3"/>
+	<item component="ComponentInfo{org.videolan.vlc4/org.videolan.vlc.StartActivity}" drawable="b_vlc4"/>
+<!-- a_NoNet-静读天下_Pro -->
+<item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="b_moonreader"/>
+	<item component="ComponentInfo{com.flyersoft.moonreaderp3/com.flyersoft.moonreaderp.ActivityMain}" drawable="b_moonreader2"/>
+	<item component="ComponentInfo{com.flyersoft.moonreaderp2/com.flyersoft.moonreaderp.ActivityMain}" drawable="b_moonreader3"/>
+<!-- Bmap-6.9 -->
+<item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.activity.StartActivity}" drawable="b_map"/>
+	<item component="ComponentInfo{me.gfuil.bmap2/me.gfuil.bmap.activity.StartActivity}" drawable="b_map2"/>
+	<item component="ComponentInfo{me.gfuil.bmap3/me.gfuil.bmap.activity.StartActivity}" drawable="b_map3"/>
+	<item component="ComponentInfo{me.gfuil.bmap4/me.gfuil.bmap.activity.StartActivity}" drawable="b_map4"/>
+	<item component="ComponentInfo{me.gfuil.bmap5/me.gfuil.bmap.activity.StartActivity}" drawable="b_map5"/>
+	<item component="ComponentInfo{me.gfuil.bmap6/me.gfuil.bmap.activity.StartActivity}" drawable="b_map6"/>
+<!-- IDM_11.5 -->
+<item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="b_download"/>  
+	<item component="ComponentInfo{idm.internet.download.manager.plus2/idm.internet.download.manager.MainActivity}" drawable="b_download2"/>  
+	<item component="ComponentInfo{idm.internet.download.manager.plus3/idm.internet.download.manager.MainActivity}" drawable="b_download3"/>  
+	<item component="ComponentInfo{idm.internet.download.manager.plus4/idm.internet.download.manager.MainActivity}" drawable="b_download4"/>  
+	<item component="ComponentInfo{idm.internet.download.manager.plus5/idm.internet.download.manager.MainActivity}" drawable="b_download5"/>  
+	<item component="ComponentInfo{idm.internet.download.manager.plus6/idm.internet.download.manager.MainActivity}" drawable="b_download6"/>  
+	<item component="ComponentInfo{idm.internet.download.manager.plus7/idm.internet.download.manager.MainActivity}" drawable="b_download7"/>  
+<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="b_download"/>  
+<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.IncognitoActivityLauncher}" drawable="b_download"/>  
+
+<!-- b_工具-Markor_201221_ -->
+<item component="ComponentInfo{net.gsantner.markor_test/net.gsantner.markor.activity.MainActivity}" drawable="b_note"/>  
+	<item component="ComponentInfo{net.gsantner.markor_test2/net.gsantner.markor.activity.MainActivity}" drawable="b_note2"/>  
+	<item component="ComponentInfo{net.gsantner.markor_test3/net.gsantner.markor.activity.MainActivity}" drawable="b_note3"/>  
+	<item component="ComponentInfo{net.gsantner.markor_test4/net.gsantner.markor.activity.MainActivity}" drawable="b_note4"/>  
+	<item component="ComponentInfo{net.gsantner.markor_test5/net.gsantner.markor.activity.MainActivity}" drawable="b_note5"/>  
+	<item component="ComponentInfo{net.gsantner.markor_test6/net.gsantner.markor.activity.MainActivity}" drawable="b_note6"/>  
+	<item component="ComponentInfo{net.gsantner.markor_test7/net.gsantner.markor.activity.MainActivity}" drawable="b_note7"/>  
+<item component="ComponentInfo{net.gsantner.markor_test/net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity}" drawable="b_note"/>  
+<item component="ComponentInfo{net.gsantner.markor_test/net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity}" drawable="b_note"/>  
+
+<!-- c_常用-阅读_3.20.20201231 -->
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.WelcomeActivity}" drawable="b_read"/>  
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher1}" drawable="b_read"/>  
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher2}" drawable="b_read"/>  
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher3}" drawable="b_read"/>  
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher4}" drawable="b_read"/>  
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher5}" drawable="b_read"/>  
+<item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher6}" drawable="b_read"/>  
+	<item component="ComponentInfo{io.legado.app.release2/io.legado.app.ui.welcome.Launcher6}" drawable="b_read2"/>  
+	<item component="ComponentInfo{io.legado.app.release3/io.legado.app.ui.welcome.Launcher6}" drawable="b_read3"/>  
+	<item component="ComponentInfo{io.legado.app.release4/io.legado.app.ui.welcome.Launcher6}" drawable="b_read4"/>  
+	<item component="ComponentInfo{io.legado.app.release5/io.legado.app.ui.welcome.Launcher6}" drawable="b_read5"/>  
+	<item component="ComponentInfo{io.legado.app.release6/io.legado.app.ui.welcome.Launcher6}" drawable="b_read6"/>  
+	<item component="ComponentInfo{io.legado.app.release7/io.legado.app.ui.welcome.Launcher6}" drawable="b_read7"/>  
+	<item component="ComponentInfo{io.legado.app.release8/io.legado.app.ui.welcome.Launcher6}" drawable="b_read8"/>  
+	<item component="ComponentInfo{io.legado.app.release9/io.legado.app.ui.welcome.Launcher6}" drawable="b_read9"/>  
+
+<!-- google.tts -->
+<item component="ComponentInfo{com.google.android.tts/com.google.android.apps.speech.tts.googletts.settings.CheckVoiceData}" drawable="b_tts"/>
+	<item component="ComponentInfo{com.google.android.tts2/com.google.android.apps.speech.tts.googletts.settings.CheckVoiceData}" drawable="b_tts2"/>
+<item component="ComponentInfo{com.google.android.tts/com.google.android.apps.speech.tts.googletts.settings.GetSampleText}" drawable="b_tts"/>
+<item component="ComponentInfo{com.google.android.tts/com.google.android.apps.speech.tts.googletts.settings.EngineSettings}" drawable="b_tts"/>
+<item component="ComponentInfo{com.google.android.tts/com.google.android.apps.speech.tts.googletts.local.voicepack.ui.VoiceDataInstallActivity}" drawable="b_tts"/>
+
+<!-- tingshu_v2.0.6 -->
+<item component="ComponentInfo{com.github.eprendre.tingshu/com.github.eprendre.tingshu.ui.SplashActivity}" drawable="b_tingshu"/>  
+<item component="ComponentInfo{com.github.eprendre.tingshu/com.github.eprendre.tingshu.ui.SplashActivity2}" drawable="b_tingshu"/>  
+<item component="ComponentInfo{com.github.eprendre.tingshu/com.github.eprendre.tingshu.ui.SplashActivity3}" drawable="b_tingshu"/>  
+<item component="ComponentInfo{com.github.eprendre.tingshu/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu2/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu2"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu3/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu3"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu4/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu4"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu5/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu5"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu6/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu6"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu7/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu7"/>  
+	<item component="ComponentInfo{com.github.eprendre.tingshu8/com.github.eprendre.tingshu.ui.SplashActivity4}" drawable="b_tingshu8"/>  
+
+
+
+
+
+
+
+<!-- 微信 -->
+<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="c_wechat"/>
+	<item component="ComponentInfo{com.tencent.mm2/com.tencent.mm.ui.LauncherUI}" drawable="c_wechat2"/>
+<!-- b_工具-V2rayNG-V1.0.2 -->
+<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="c_vpn"/>
+	<item component="ComponentInfo{com.v2ray.ang2/com.v2ray.ang.ui.MainActivity}" drawable="c_vpn2"/>
+	<item component="ComponentInfo{com.v2ray.ang3/com.v2ray.ang.ui.MainActivity}" drawable="c_vpn3"/>
+	<item component="ComponentInfo{com.v2ray.ang4/com.v2ray.ang.ui.MainActivity}" drawable="c_vpn4"/>
+<!-- 贴吧lite1.1 -->
+<item component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.activities.MainActivity}" drawable="c_tieba"/>
+	<item component="ComponentInfo{com.huanchengfly.tieba.post2/com.huanchengfly.tieba.post.activities.MainActivity}" drawable="c_tieba2"/>
+<!-- Reddit-4.2.0 -->
+<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="c_reddit"/>
+	<item component="ComponentInfo{ml.docilealligator.infinityforreddit2/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="c_reddit2"/>
+	<item component="ComponentInfo{ml.docilealligator.infinityforreddit3/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="c_reddit3"/>
+<!-- 知乎 -->
+<item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}" drawable="c_zhihu"/>
+	<item component="ComponentInfo{com.zhihu.android2/com.zhihu.android.app.ui.activity.MainActivity}" drawable="c_zhihu2"/>
+	<item component="ComponentInfo{com.zhihu.android3/com.zhihu.android.app.ui.activity.MainActivity}" drawable="c_zhihu3"/>
+<!-- 酷安9.1.1 -->
+<item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="c_coolapk"/>
+<!-- 酷我_v8.4.0.0_ -->
+<item component="ComponentInfo{cn.kuwo.player/cn.kuwo.player.activities.EntryActivity}" drawable="c_kuwo"/>
+	<item component="ComponentInfo{cn.kuwo.player3/cn.kuwo.player.activities.EntryActivity}" drawable="c_kuwo3"/>
+<!-- 百度网盘 -->
+<item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.MainActivity}" drawable="c_netdisk"/>
+<!-- 百度网盘小米联运版10.0.138 -->
+<item component="ComponentInfo{com.baidu.netdisk.xiaomi.appunion/com.baidu.netdisk.ui.Navigate}" drawable="c_netdisk3"/>
+<!-- 百度网盘10.0.12 -->
+<item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="c_netdisk2"/>
+<!-- Polly-108 -->
+<item component="ComponentInfo{com.blend.polly/com.blend.polly.ui.main.MainActivity}" drawable="c_news"/>
+	<item component="ComponentInfo{com.blend.polly2/com.blend.polly.ui.main.MainActivity}" drawable="c_news2"/>
+	<item component="ComponentInfo{com.blend.polly3/com.blend.polly.ui.main.MainActivity}" drawable="c_news3"/>
+<!-- Rolly35 -->
+<item component="ComponentInfo{com.blend.rolly/com.blend.rolly.ui.main.MainActivity}" drawable="c_rss"/>
+	<item component="ComponentInfo{com.blend.rolly2/com.blend.rolly.ui.main.MainActivity}" drawable="c_rss2"/>
+	<item component="ComponentInfo{com.blend.rolly3/com.blend.rolly.ui.main.MainActivity}" drawable="c_rss3"/>
+	<item component="ComponentInfo{com.blend.rolly4/com.blend.rolly.ui.main.MainActivity}" drawable="c_rss4"/>
+	<item component="ComponentInfo{com.blend.rolly5/com.blend.rolly.ui.main.MainActivity}" drawable="c_rss5"/>
+
+<!-- 中国联通-8.7.b_110-6011 -->
+<item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="c_unicom"/>
+	<item component="ComponentInfo{com.sinovatech.unicom.ui2/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="c_unicom2"/>
+	<item component="ComponentInfo{com.sinovatech.unicom.ui3/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="c_unicom3"/>
+	<item component="ComponentInfo{com.sinovatech.unicom.ui4/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="c_unicom4"/>
+<!-- 微信读书 -->
+<item component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}" drawable="c_weread"/>
+<!-- 招商银行-9.2.0-920-4016 -->
+<item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}" drawable="c_cmb"/>
+<!-- 支付宝10.2.12Googleplay -->
+<item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="c_alipay"/>
+	<item component="ComponentInfo{com.eg.android.AlipayGphone2/com.eg.android.AlipayGphone.AlipayLogin}" drawable="c_alipay2"/>
+<!-- 京东_v9.4.2_GooglePlay -->
+<item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="c_jingdong"/>
+	<item component="ComponentInfo{com.jingdong.app.mall2/com.jingdong.app.mall.main.MainActivity}" drawable="c_jingdong2"/>
+<!-- 手机淘宝_v9.1.2_apkpure -->
+<item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="c_taobao"/>
+	<item component="ComponentInfo{com.taobao.taobao2/com.taobao.tao.welcome.Welcome}" drawable="c_taobao2"/>
+<!-- 拼多多谷歌.54401 -->
+<item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}" drawable="c_pinduoduo"/>
+<!-- 淘宝特价版-3.42.0-119-180549 -->
+<item component="ComponentInfo{com.taobao.litetao/com.taobao.ltao.maintab.MainFrameActivity}" drawable="c_litetao"/>
+	<item component="ComponentInfo{com.taobao.litetao2/com.taobao.ltao.maintab.MainFrameActivity}" drawable="c_litetao2"/>
+<!-- 闲鱼-6.9.30-217-104290 -->
+<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="c_idlefish"/>
+<!-- 阿里巴巴- -->
+<item component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}" drawable="c_alibaba"/>
+<!-- 五音v372 -->
+<item component="ComponentInfo{com.sixyin.wuyin_app/com.sixyin.wuyin_app.MainActivity}" drawable="b_music9"/>
+<!-- 哔哩哔哩 -->
+<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="c_bili"/>
+	<item component="ComponentInfo{tv.danmaku.bili2/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="c_bili2"/>
+	<item component="ComponentInfo{tv.danmaku.bili3/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="c_bili3"/>
+<!-- 海阔视界_ -->
+<item component="ComponentInfo{com.example.hikerview/com.example.hikerview.ui.home.MainActivity}" drawable="c_video"/>
+	<item component="ComponentInfo{com.example.hikerview2/com.example.hikerview.ui.home.MainActivity}" drawable="c_video2"/>
+	<item component="ComponentInfo{com.example.hikerview3/com.example.hikerview.ui.home.MainActivity}" drawable="c_video3"/>
+	<item component="ComponentInfo{com.example.hikerview4/com.example.hikerview.ui.home.MainActivity}" drawable="c_video4"/>
+	<item component="ComponentInfo{com.example.hikerview5/com.example.hikerview.ui.home.MainActivity}" drawable="c_video5"/>
+	<item component="ComponentInfo{com.example.hikerview6/com.example.hikerview.ui.home.MainActivity}" drawable="c_video6"/>
+	<item component="ComponentInfo{com.example.hikerview7/com.example.hikerview.ui.home.MainActivity}" drawable="c_video7"/>
+	<item component="ComponentInfo{com.example.hikerview8/com.example.hikerview.ui.home.MainActivity}" drawable="c_video8"/>
+<!-- a_FDroid-aurora.store -->
+<item component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="c_store"/>
+	<item component="ComponentInfo{com.aurora.store2/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="c_store2"/>
+	<item component="ComponentInfo{com.aurora.store3/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="c_store3"/>
+<!-- a_FDroid-newpipe_968-FDriod -->
+<item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="c_youtube"/>
+	<item component="ComponentInfo{org.schabi.newpipe2/org.schabi.newpipe.MainActivity}" drawable="c_youtube2"/>
+	<item component="ComponentInfo{org.schabi.newpipe3/org.schabi.newpipe.MainActivity}" drawable="c_youtube3"/>
+<!-- a_FDroid-termux_113 -->
+<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="c_termux"/>
+	<item component="ComponentInfo{com.termux2/com.termux.app.TermuxActivity}" drawable="c_termux2"/>
+
+
+
+
+
+
+
+<!-- b_工具-备份v4.0.0 -->
+<item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup"/>
+	<item component="ComponentInfo{com.machiav3lli.backup2/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup2"/>
+	<item component="ComponentInfo{com.machiav3lli.backup3/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup3"/>
+	<item component="ComponentInfo{com.machiav3lli.backup4/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup4"/>
+	<item component="ComponentInfo{com.machiav3lli.backup5/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup5"/>
+	<item component="ComponentInfo{com.machiav3lli.backup6/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup6"/>
+	<item component="ComponentInfo{com.machiav3lli.backup7/com.machiav3lli.backup.activities.SplashActivity}" drawable="d_backup7"/>
+<!-- HttpCanary_2.8.1 -->
+<item component="ComponentInfo{com.guoshi.httpcanary/com.guoshi.httpcanary.ui.SplashActivity}" drawable="d_httpcanary"/>
+	<item component="ComponentInfo{com.guoshi.httpcanary2/com.guoshi.httpcanary.ui.SplashActivity}" drawable="d_httpcanary2"/>
+
+<!-- 腾讯医典2.3.5 -->
+<item component="ComponentInfo{com.tencent.mymedinfo/com.tencent.mymedinfo.MainActivity}" drawable="d_mymedinfo"/>
+<!-- 抖音精简版_v15.1.1版 -->
+<item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="d_tiktok"/>
+	<item component="ComponentInfo{com.ss.android.ugc.aweme2/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="d_tiktok2"/>
+<!-- 新浪微博-11.3.c_4906-1198 -->
+<item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="d_weibo"/>
+<!-- 李跳跳-自动跳过广告-派大星 -->
+<item component="ComponentInfo{com.whatsbug.litiaotiao/com.whatsbug.litiaotiao.MainActivity}" drawable="d_ad"/>
+	<item component="ComponentInfo{com.whatsbug.litiaotiao2/com.whatsbug.litiaotiao.MainActivity}" drawable="d_ad2"/>
+	<item component="ComponentInfo{com.whatsbug.litiaotiao3/com.whatsbug.litiaotiao.MainActivity}" drawable="d_ad3"/>
+	 
+<!-- 粉笔教育-6.14.d_6140400-13462 -->
+<item component="ComponentInfo{com.fenbi.android.servant/com.fenbi.android.uni.activity.portal.WelcomeActivity}" drawable="d_fenbi"/>
+<!-- 网络信号大师-3.8.b_ -->
+<item component="ComponentInfo{com.qtrun.QuickTest/com.qtrun.QuickTest.LauncherActivity}" drawable="d_net"/>
+	<item component="ComponentInfo{com.qtrun.QuickTest2/com.qtrun.QuickTest.LauncherActivity}" drawable="d_net2"/>
+	<item component="ComponentInfo{com.qtrun.QuickTest3/com.qtrun.QuickTest.LauncherActivity}" drawable="d_net3"/>
+	<item component="ComponentInfo{com.qtrun.QuickTest4/com.qtrun.QuickTest.LauncherActivity}" drawable="d_net4"/>
+<!-- 铁路12306-5.2.1a_24a_9476 -->
+<item component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}" drawable="d_12306"/>
+<!-- 京东金融-6.0.5d_30d_13362 -->
+<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}" drawable="d_jd22"/>
+<!-- Keep-7.0.0 -->
+<item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="d_keep"/>
+
+
+
+<!-- 沃钱包-4.9.6-496-21219 -->
+<item component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.MainActivity}" drawable="d_wopay"/>
+
+
+
+
+
+
+
+
+<!-- 音乐标签1.2.4.1 -->
+<item component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}" drawable="aaaaaa"/>
+<!-- Apktool-2.4.0 -->
+<item component="ComponentInfo{com.a4455jkjhtool/com.a4455jkjhtool.MainActivity}" drawable="aaaaaa"/>
+<!-- 日志查看-V1.7.1 -->
+<item component="ComponentInfo{com.dp.logcatapp/com.dp.logcatapp.activities.SplashActivity}" drawable="aaaaaa"/>
+<!-- 短信转发_2.1.0 -->
+<item component="ComponentInfo{com.tim.tsms.transpondsms/com.tim.tsms.transpondsms.MainActivity}" drawable="aaaaaa"/>
+<!-- 签名获取 -->
+<item component="ComponentInfo{sigget.yanchen.com.sigget/com.yanchen.sigget.MainActivity}" drawable="aaaaaa"/>
+<!-- a_NoNet-谷歌假框架 -->
+<item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="aaaaaa"/>
+<!-- X浏览器3.4.0 -->
+<item component="ComponentInfo{com.mmbox.xbrowser/com.mmbox.xbrowser.BrowserActivity}" drawable="aaaaaa"/>
+<!-- 必应词典-6.6.5 -->
+<item component="ComponentInfo{bingdic.android.activity/bingdic.android.activity.SplashscreenActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-易开发v1.0.4 -->
+<item component="ComponentInfo{com.wrbug.developerhelper/com.wrbug.developerhelper.ui.activity.main.MainActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-暗黑模式DarQV1.3 -->
+<item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-核心破解_v2.2 -->
+<item component="ComponentInfo{com.coderstory.toolkit/toolkit.coderstory.MainActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-自动暗黑 -->
+<item component="ComponentInfo{me.ranko.autodark/me.ranko.autodark.ui.MainActivity}" drawable="aaaaaa"/>
+<!-- 无网-Lataclysm_1.3.5 -->
+<item component="ComponentInfo{com.cataclysm.i/com.cataclysm.i.GuideActivity}" drawable="aaaaaa"/>
+<!-- 无网-LearnHook3.0-Beta-9 -->
+<item component="ComponentInfo{com.test.learnhook/com.test.learnhook.MainActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-scene4 preview -->
+<item component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityMain}" drawable="aaaaaa"/>  
+<item component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityFreezeApps}" drawable="aaaaaa"/>  
+<!-- a_自编译-无网-XInternalSD_v4.8 -->
+<item component="ComponentInfo{com.pyler.xinternalsd/com.pyler.xinternalsd.Settings}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-一加状态栏网速 -->
+<item component="ComponentInfo{me.seasonyuu.xposed.networkspeedindicator.h2os/me.seasonyuu.xposed.networkspeedindicator.h2os.SettingsActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-上帝模式_ -->
+<item component="ComponentInfo{com.viewblocker.jrsen/com.kaisar.xposed.godmode.SettingsActivity}" drawable="aaaaaa"/>
+<!-- 无网-对话框取消-2.2.0 -->
+<item component="ComponentInfo{com.mhook.dialog/com.mhook.dialog.task.ui.AppList2}" drawable="aaaaaa"/>
+<!-- a_NoNet-轻桌面V3,1 -->
+<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.Launcher}" drawable="aaaaaa"/>  
+<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.ToggleWeightWatcher}" drawable="aaaaaa"/>  
+<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="aaaaaa"/>  
+<!-- 新语图书馆v3.3.11 -->
+<item component="ComponentInfo{com.xyts.xinyulib/com.xyts.xinyulib.ui.MainActivity}" drawable="aaaaaa"/>
+<!-- AutoJS-debug -->
+<item component="ComponentInfo{org.autojs.autojs/org.autojs.autojs.ui.main.MainActivity_}" drawable="aaaaaa"/>
+<!-- 玩安卓1.5.0 -->
+<item component="ComponentInfo{per.goweii.wanandroid/per.goweii.wanandroid.module.main.activity.MainActivity}" drawable="aaaaaa"/>
+<!-- 京东读书校园版 -->
+<item component="ComponentInfo{com.jingdong.app.reader.campus/com.jingdong.app.reader.logo.JdLogoActivity}" drawable="aaaaaa"/>
+<!-- 京东阅读官网无加固版V1.18.0 -->
+<item component="ComponentInfo{com.jd.app.reader/com.jingdong.app.reader.main.ui.JdMainActivity}" drawable="aaaaaa"/>
+<!-- 什么值得买_v9.6.10 -->
+<item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.app.HomeActivity}" drawable="aaaaaa"/>
+<!-- 网易公开课7.1.0 -->
+<item component="ComponentInfo{com.netease.vopen/com.netease.vopen.feature.welcome.WelcomeActivity}" drawable="aaaaaa"/>
+<!-- 美剧鸟Pro101 -->
+<item component="ComponentInfo{com.meijunpro.app/com.meiju592.app.view.activity.LogoSplashActivity}" drawable="aaaaaa"/>
+<!-- 无网-应用管理thanox-v2.5 -->
+<item component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-应用管理x-apm5 -->
+<item component="ComponentInfo{github.tornaco.xposedmoduletest/github.tornaco.xposedmoduletest.ui.activity.NavigatorActivityBottomNav}" drawable="aaaaaa"/>
+<!-- MagiskManager-v7.5.1 -->
+<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="aaaaaa"/>
+<!-- a_自编译-无网-应用变量_ -->
+<item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.android.appenv.activitys.ActivityMain}" drawable="aaaaaa"/>
+
+</resources>

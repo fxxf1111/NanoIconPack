@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         // Package name format: com.[your_name].iconpack.[name_of_your_icon_pack]
-        applicationId "com.trance.icon.smarttan"
+        applicationId "com.trance.icon.myios"
         minSdkVersion Integer.parseInt(project.MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
         versionCode 100
@@ -15,7 +15,14 @@ android {
 
         resConfigs "en", "zh_cn"
     }
-
+    signingConfigs {
+        release {
+            storeFile file("TestKey.jks")
+            storePassword "123321"
+            keyAlias "Test"
+            keyPassword "123321"
+        }
+    }
     buildTypes {
         release {
             shrinkResources false // Keep false, or icons in /drawable-nodpi/ will become black.
@@ -32,6 +39,7 @@ android {
                     }
                 }
             }
+            signingConfig signingConfigs.release
         }
     }
 

@@ -5,2261 +5,270 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <!-- app内部展示用 -->
     <string-array name="icons" translatable="false">
-      <item>about_profile_image</item>
-<item>air_au_com_metro_dumbwaystodie</item>
-<item>air_byss_mobi_instaweatherfree</item>
-<item>air_com_adobe_pstouchphone</item>
-<item>air_com_demute_taomix</item>
-<item>air_com_forthedream_dreamworks4_wdj</item>
-<item>air_com_stateofplaygames_kamifree</item>
-<item>air_com_tencent_qqpasture</item>
-<item>air_com_wuba_bangbang</item>
-<item>air_e2applets_ironpants</item>
-<item>air_fyzb3</item>
-<item>air_gsmobile</item>
-<item>air_tv_douyu_android</item>
-<item>alicom_palm_android</item>
-<item>all_parttimeguidesystem</item>
-<item>android_zhibo8</item>
-<item>at_markushi_expensemanager</item>
-<item>au_com_shiftyjelly_pocketcasts</item>
-<item>b612</item>
-<item>bdmobile_android</item>
-<item>bdmobile_android_app</item>
-<item>bdmobile_android_app_past</item>
-<item>bingdic_android_activity</item>
-<item>browser</item>
-<item>bubei_tingshu</item>
-<item>calculator</item>
-<item>calendar</item>
-<item>camera</item>
-<item>candy_crush_saga</item>
-<item>cc_forestapp</item>
-<item>cc_fotoplace_app</item>
-<item>cc_huochaihe_app</item>
-<item>cc_iriding_mobile</item>
-<item>cc_kaipao_dongjia</item>
-<item>cc_linkmob_chedan</item>
-<item>cc_mingyihui_activity</item>
-<item>cgj_cocos2dxgame_plane</item>
-<item>chelunjiakaotong</item>
-<item>chuxin_shimo_shimowendang</item>
-<item>cld_navi_mainframe</item>
-<item>cld_navi_mainframez_cld_navi_mainframe</item>
-<item>clock</item>
-<item>cmb_pb</item>
-<item>cmccwm_mobilemusic</item>
-<item>cn_amazon_mshop_android</item>
-<item>cn_andouya</item>
-<item>cn_banshenggua_aichang</item>
-<item>cn_bluecrane_calendar</item>
-<item>cn_buding_coupon</item>
-<item>cn_buding_moviecoupon</item>
-<item>cn_chinabus_main</item>
-<item>cn_chinabus_mainicon</item>
-<item>cn_chinabus_metro_main</item>
-<item>cn_cj_pe</item>
-<item>cn_cntv</item>
-<item>cn_cntvnews</item>
-<item>cn_com_bmac_nfc</item>
-<item>cn_com_cmbc_mbank</item>
-<item>cn_com_fetion</item>
-<item>cn_com_langeasy_langeasylexis</item>
-<item>cn_com_mcdonalds_m4d</item>
-<item>cn_com_mm_ui</item>
-<item>cn_com_modernmedia_businessweek</item>
-<item>cn_com_opda_android_update</item>
-<item>cn_com_open_mooc</item>
-<item>cn_com_pconline_android_browser</item>
-<item>cn_com_sina_finance</item>
-<item>cn_com_sina_sports</item>
-<item>cn_com_spdb_mobilebank_per</item>
-<item>cn_com_tianqu_takeout_main</item>
-<item>cn_com_tiros_android_navidog4x</item>
-<item>cn_com_wali_walisms</item>
-<item>cn_damai</item>
-<item>cn_dict_android_pro</item>
-<item>cn_dict_android_pro_past</item>
-<item>cn_dpocket_moplusand_uinew</item>
-<item>cn_dxy_android_aspirin</item>
-<item>cn_dxy_android_aspirin_icon_1_past</item>
-<item>cn_dxy_android_aspirin_icon_2_past</item>
-<item>cn_dxy_medicinehelper</item>
-<item>cn_dxy_medtime</item>
-<item>cn_eclicks_drivingtest</item>
-<item>cn_ecook</item>
-<item>cn_edaijia_android_client</item>
-<item>cn_edu_zjicm_listen</item>
-<item>cn_edu_zjicm_wordsnet_d</item>
-<item>cn_emagsoftware_gamehall</item>
-<item>cn_emagsoftware_gamehallic_launcher</item>
-<item>cn_emoney_level2</item>
-<item>cn_etouch_ecalendar</item>
-<item>cn_etouch_ecalendar_ladies</item>
-<item>cn_etouch_taoyouhui</item>
-<item>cn_goapk_market</item>
-<item>cn_gogocity_suibian</item>
-<item>cn_highing_hichat</item>
-<item>cn_htjyb_reader</item>
-<item>cn_ibuka_manga_ui</item>
-<item>cn_ibuka_manga_ui_past</item>
-<item>cn_ikamobile_trainfinder</item>
-<item>cn_ishansong</item>
-<item>cn_jingling_motu_photowonder</item>
-<item>cn_jj</item>
-<item>cn_konami_contraevo</item>
-<item>cn_koogame_fighter</item>
-<item>cn_kuaipan_android</item>
-<item>cn_kuwo_player</item>
-<item>cn_kuwo_tingshu</item>
-<item>cn_ledongli_ldl</item>
-<item>cn_lieche_main</item>
-<item>cn_lieche_mainicon</item>
-<item>cn_lifefun_toshow</item>
-<item>cn_longmaster_pengpeng</item>
-<item>cn_longmaster_phoneplus_activity</item>
-<item>cn_m15_app_daozher</item>
-<item>cn_maketion_activity</item>
-<item>cn_mama_activity</item>
-<item>cn_mdict</item>
-<item>cn_missfresh_application</item>
-<item>cn_mucang_xiaomi_android_wz</item>
-<item>cn_myhug_baobao</item>
-<item>cn_ninegame_gamemanager</item>
-<item>cn_ninegame_gameqq</item>
-<item>cn_opda_a_phonoalbumshoushou</item>
-<item>cn_pocdoc_burnfat</item>
-<item>cn_pocdoc_majiaxian</item>
-<item>cn_pocdoc_sports_plank</item>
-<item>cn_poco_jane</item>
-<item>cn_poco_pmix</item>
-<item>cn_raventech_musicflow</item>
-<item>cn_safetrip_edog</item>
-<item>cn_tagux_myshare</item>
-<item>cn_tagux_wood_joints</item>
-<item>cn_tianqu_coach_main</item>
-<item>cn_tianya_android</item>
-<item>cn_ticktick_task</item>
-<item>cn_toput_hx</item>
-<item>cn_trackview_findphone</item>
-<item>cn_trackview_findphosf</item>
-<item>cn_trackview_shentan</item>
-<item>cn_wecook_app</item>
-<item>cn_whonow_whonow</item>
-<item>cn_wiz_note</item>
-<item>cn_wps_moffice</item>
-<item>cn_wps_moffice_eng</item>
-<item>cn_wps_moffice_past</item>
-<item>cn_xiaochuankeji_tieba</item>
-<item>cn_xiaochuankeji_tiebaz_cn_xiaochuankeji_tieba</item>
-<item>cn_xindongshouyou_wjqipfzsw</item>
-<item>com_abercrombie_hollister</item>
-<item>com_achievo_vipshop</item>
-<item>com_achievo_vipshop_past</item>
-<item>com_acp_main</item>
-<item>com_active_aps_pbk</item>
-<item>com_addinghome_tonyalarm</item>
-<item>com_adobe_air</item>
-<item>com_adobe_flashplayer</item>
-<item>com_adobe_reader</item>
-<item>com_adsafe</item>
-<item>com_agilebits_onepassword</item>
-<item>com_aibang_abbus_bus</item>
-<item>com_aidian_flowhelper</item>
-<item>com_airbnb_android</item>
-<item>com_airbnb_androidz_com_airbnb_android</item>
-<item>com_aircrunch_shopalerts</item>
-<item>com_aituijian</item>
-<item>com_aizheke_goldcoupon</item>
-<item>com_ajnsnewmedia_kitchenstories</item>
-<item>com_alensw_picfolder</item>
-<item>com_alibaba_android_babylon</item>
-<item>com_alibaba_android_rimet</item>
-<item>com_alibaba_mobileim</item>
-<item>com_alibaba_wireless</item>
-<item>com_alicom_smartdail</item>
-<item>com_ali_money_shield</item>
-<item>com_ali_money_shieldic_launcher</item>
-<item>com_alpha_lagouapk</item>
-<item>com_amazon_kindle</item>
-<item>com_amazon_kindlefc</item>
-<item>com_amazon_mshop_android</item>
-<item>com_ancientec_himacau</item>
-<item>com_andphone_game_sperminator</item>
-<item>com_android36kr</item>
-<item>com_android36kr_app</item>
-<item>com_android56</item>
-<item>com_androidesk</item>
-<item>com_android_app3dxiangji</item>
-<item>com_android_bankabc</item>
-<item>com_android_benlailife_activity</item>
-<item>com_android_cheyooh</item>
-<item>com_android_chrome</item>
-<item>com_android_comicsisland_activity</item>
-<item>com_android_coolwind</item>
-<item>com_android_ctrip_gs</item>
-<item>com_android_ctrip_gsic_launcher</item>
-<item>com_android_dazhihui</item>
-<item>com_android_dazhihui_classic</item>
-<item>com_android_hjsanguowdj</item>
-<item>com_android_vending</item>
-<item>com_android_zhixing</item>
-<item>com_and_colourmedia_ewifi_nanjing</item>
-<item>com_anguanjia_safe</item>
-<item>com_anjuke_android</item>
-<item>com_anjuke_android_app</item>
-<item>com_anjuke_android_haozu</item>
-<item>com_antfortune_wealth</item>
-<item>com_antfortune_wealthz_com_antfortune_wealth</item>
-<item>com_antutu_abenchmark</item>
-<item>com_antutu_abenchmarkicon</item>
-<item>com_antutu_cpumasterfree</item>
-<item>com_antutu_powersaver</item>
-<item>com_antutu_tester</item>
-<item>com_anydo</item>
-<item>com_anydo_cal</item>
-<item>com_anyisheng_doctoran</item>
-<item>com_anyview</item>
-<item>com_aol_mobile_techcrunch</item>
-<item>com_apc_browser</item>
-<item>com_apkinstall</item>
-<item>com_appxplore_alienhive</item>
-<item>com_app_hero_ui</item>
-<item>com_aquila_bible</item>
-<item>com_asiainfo_android</item>
-<item>com_askfm</item>
-<item>com_aspire_g3wlan_client</item>
-<item>com_aspire_mm</item>
-<item>com_astrill_astrillvpn</item>
-<item>com_audioaddict_jr</item>
-<item>com_audioaddict_sky</item>
-<item>com_auer_rbsummer_zhtw</item>
-<item>com_autoconnectwifi_app</item>
-<item>com_autodesk_autocadws</item>
-<item>com_autohome_mycar</item>
-<item>com_automattic_simplenote</item>
-<item>com_autonavi_cmccmap</item>
-<item>com_autonavi_minimap</item>
-<item>com_autonavi_xmgd_navigator</item>
-<item>com_avast_android_mobilesecurity</item>
-<item>com_aws_android</item>
-<item>com_ayibang_ayb</item>
-<item>com_azhibo_zhibo</item>
-<item>com_babytree_apps_pregnancy</item>
-<item>com_badoo_mobile</item>
-<item>com_baidu_appsearch</item>
-<item>com_baidu_baiducamera</item>
-<item>com_baidu_baidulife</item>
-<item>com_baidu_baidumap</item>
-<item>com_baidu_baidutranslate</item>
-<item>com_baidu_baike</item>
-<item>com_baidu_blabla</item>
-<item>com_baidu_browser_apps</item>
-<item>com_baidu_bus</item>
-<item>com_baidu_easyroot</item>
-<item>com_baidu_finance</item>
-<item>com_baidu_hao123</item>
-<item>com_baidu_homework</item>
-<item>com_baidu_iknow</item>
-<item>com_baidu_image</item>
-<item>com_baidu_input</item>
-<item>com_baidu_lbs_waimai</item>
-<item>com_baidu_movie</item>
-<item>com_baidu_navi</item>
-<item>com_baidu_netdisk</item>
-<item>com_baidu_news</item>
-<item>com_baidu_notes</item>
-<item>com_baidu_searchbox</item>
-<item>com_baidu_tieba</item>
-<item>com_baidu_tieba_mini</item>
-<item>com_baidu_travel</item>
-<item>com_baidu_tvplay</item>
-<item>com_baidu_video</item>
-<item>com_baidu_wallet</item>
-<item>com_baidu_wallpaperex</item>
-<item>com_baidu_wenku</item>
-<item>com_baidu_yuedu</item>
-<item>com_baihe</item>
-<item>com_baitian_wenta</item>
-<item>com_baiwang_photofeeling</item>
-<item>com_bankcomm</item>
-<item>com_baozoumanhua_android</item>
-<item>com_baozou_baozou_android</item>
-<item>com_batteryacid_highwayrider</item>
-<item>com_bb_game</item>
-<item>com_bdatu_geography</item>
-<item>com_beastbikes_android</item>
-<item>com_behance_behance</item>
-<item>com_bench_yylc</item>
-<item>com_bestbuy_android</item>
-<item>com_besttone_esearch</item>
-<item>com_besttone_travelsky</item>
-<item>com_bet007_mobile_score</item>
-<item>com_bf_sgs_hdexp</item>
-<item>com_bianfeng_swear</item>
-<item>com_biganiseed_ladder_trial</item>
-<item>com_bilibili_app_blue</item>
-<item>com_bilin_huijiao_activity</item>
-<item>com_bingime_ime</item>
-<item>com_bittorrent_sync</item>
-<item>com_bizsocialnet</item>
-<item>com_bjjpsk_jpskb</item>
-<item>com_bjzcht_lovebeequick</item>
-<item>com_blackbean_cnmeach</item>
-<item>com_blink_academy_onetake</item>
-<item>com_blizzard_bma</item>
-<item>com_blizzard_wow</item>
-<item>com_bloomlife_luobo</item>
-<item>com_blovestorm</item>
-<item>com_bluefir_grannyseason_wandoujia</item>
-<item>com_blueorbit_muzzik</item>
-<item>com_blueshadowgames_naught</item>
-<item>com_boohee_food</item>
-<item>com_boohee_light</item>
-<item>com_boohee_one</item>
-<item>com_booking</item>
-<item>com_box_android</item>
-<item>com_boyaa_lordland_sina</item>
-<item>com_boyeah_poet</item>
-<item>com_bozhong_crazy</item>
-<item>com_breadtrip</item>
-<item>com_brixd_niceapp</item>
-<item>com_brixd_wallpager</item>
-<item>com_buak_link2sd</item>
-<item>com_budejie_mimi</item>
-<item>com_budejie_www</item>
-<item>com_bugkr_beautyidea</item>
-<item>com_bugua_fight</item>
-<item>com_businessvalue_android</item>
-<item>com_businessvalue_android_app</item>
-<item>com_businessvalue_android_appic_launcher</item>
-<item>com_buzzpia_aqua_launcher</item>
-<item>com_byread_reader</item>
-<item>com_by_butter_camera</item>
-<item>com_c2vl_kgamebox</item>
-<item>com_caimao_cp</item>
-<item>com_caing_news</item>
-<item>com_cainiao_wireless</item>
-<item>com_calendar_ui</item>
-<item>com_camigomedia_mewantbamboo</item>
-<item>com_campmobile_android_linedeco</item>
-<item>com_candl_athena</item>
-<item>com_carrot_carrotfantasy</item>
-<item>com_carrot_iceworld</item>
-<item>com_catdaddy_cat22</item>
-<item>com_cat_twinkle</item>
-<item>com_cc</item>
-<item>com_cebbank_bankebb</item>
-<item>com_cgj_llkbaoshi</item>
-<item>com_changba</item>
-<item>com_changbaz_com_changba</item>
-<item>com_chanyouji_android</item>
-<item>com_chanyouji_birth</item>
-<item>com_chanyouji_pictorials</item>
-<item>com_chaozhuo_browser_phone</item>
-<item>com_chaozh_ireaderfree</item>
-<item>com_chartcross_gpstest</item>
-<item>com_chediandian_customer</item>
-<item>com_cheerfulinc_flipagram</item>
-<item>com_chinaamc_mfbh_amcactivity</item>
-<item>com_chinabus_square2</item>
-<item>com_chinamobile_cmccwifi</item>
-<item>com_chinamworld_bocmbci</item>
-<item>com_chinamworld_main</item>
-<item>com_chinatelecom_bestpayclient</item>
-<item>com_chlova_kanqiula</item>
-<item>com_chrrs_cherrymusic</item>
-<item>com_chunfen_brand5</item>
-<item>com_cib_cibmb</item>
-<item>com_citiccard_mobilebank</item>
-<item>com_cjwifi</item>
-<item>com_clapfootgames_tankhero</item>
-<item>com_cleanmaster_mguard_cn</item>
-<item>com_cleanmaster_security</item>
-<item>com_cleevio_spendee</item>
-<item>com_clov4r_android_nil</item>
-<item>com_clover_daysmatter</item>
-<item>com_clover_imoney</item>
-<item>com_cmbchina_ccd_pluto_cmbactivity</item>
-<item>com_cmcc_cmvideo</item>
-<item>com_cmcc_mobilevideo</item>
-<item>com_cnbeta_imkac</item>
-<item>com_cnn_mobile_android_phone</item>
-<item>com_cnvcs_gomoku</item>
-<item>com_cnvcs_junqi</item>
-<item>com_cnvcs_xiangqi</item>
-<item>com_codoon_gps</item>
-<item>com_coldworks_coldjoke</item>
-<item>com_colortino_android_chinese</item>
-<item>com_com2us_acefishing_normal_freefull_google_global_android_common</item>
-<item>com_com2us_inotia4_normal_freefull_google_cn_android_common</item>
-<item>com_com2us_inotia4_normal_freefull_google_global_android_common</item>
-<item>com_commsource_beautyplus</item>
-<item>com_commsource_pomelo</item>
-<item>com_coolapk_market</item>
-<item>com_cooliris_media</item>
-<item>com_cooliris_slateandroid</item>
-<item>com_coolsnow_screenshot</item>
-<item>com_coomix_app_bus</item>
-<item>com_cootek_smartdialer</item>
-<item>com_cootek_smartinputv5</item>
-<item>com_covworks_uface</item>
-<item>com_cronlygames_hanzi</item>
-<item>com_crossfield_namsterlife</item>
-<item>com_csair_mbp</item>
-<item>com_ct_client</item>
-<item>com_cubic_autohome</item>
-<item>com_cubic_choosecar</item>
-<item>com_culiu_tenwords</item>
-<item>com_cwsj_android</item>
-<item>com_cyworld_camera</item>
-<item>com_dada_mobile_android</item>
-<item>com_dailyyoga_cn</item>
-<item>com_dajie_toastcorp</item>
-<item>com_damuzhi_travel</item>
-<item>com_daneshd_system_app_remover</item>
-<item>com_danesh_system_app_remover</item>
-<item>com_dangdang_buy2</item>
-<item>com_dangdang_reader</item>
-<item>com_danielstudio_app_wowtu</item>
-<item>com_daomii_daomii</item>
-<item>com_dataviz_docstogo</item>
-<item>com_datech_mozik</item>
-<item>com_dayingjia_stock_activity</item>
-<item>com_ddmap_android_compatible</item>
-<item>com_ddmap_android_privilege</item>
-<item>com_dealmoon_android</item>
-<item>com_dedalord_runningfred</item>
-<item>com_defiantdev_skisafari</item>
-<item>com_demacia_duoku</item>
-<item>com_dena_west_transformersbattletactics</item>
-<item>com_devhd_feedly</item>
-<item>com_deviantart_android_damobile</item>
-<item>com_dewmobile_kuaiya</item>
-<item>com_dfpzmasters_wdj</item>
-<item>com_dft_hb</item>
-<item>com_diandian_android</item>
-<item>com_dianping_t</item>
-<item>com_dianping_v1</item>
-<item>com_dianping_v1icon</item>
-<item>com_dianshijia_tvlive</item>
-<item>com_dianxing_heloandroid</item>
-<item>com_dianxinos_dxbb</item>
-<item>com_dianxinos_dxhome</item>
-<item>com_dianxinos_optimizer_duplay</item>
-<item>com_dianxinos_powermanager</item>
-<item>com_dianxinos_weather</item>
-<item>com_diaox2_android</item>
-<item>com_dictionary</item>
-<item>com_dictionary_past</item>
-<item>com_didapinche_booking</item>
-<item>com_didi_echo</item>
-<item>com_diggreader</item>
-<item>com_digiplex_game</item>
-<item>com_diguayouxi</item>
-<item>com_dili360</item>
-<item>com_disney_chukong_wmw</item>
-<item>com_disney_troz</item>
-<item>com_dmzj_manhua</item>
-<item>com_dns_portals_package2312</item>
-<item>com_docin_zlibrary_ui_android</item>
-<item>com_dolphin_browser_cn</item>
-<item>com_dolphin_browser_xf</item>
-<item>com_dongqiudi_news</item>
-<item>com_donopo_mary10</item>
-<item>com_dotamax_app</item>
-<item>com_dotgears_flappybird</item>
-<item>com_dotgears_swing</item>
-<item>com_douban_artist</item>
-<item>com_douban_book_reader</item>
-<item>com_douban_daily</item>
-<item>com_douban_dongxi</item>
-<item>com_douban_event</item>
-<item>com_douban_frodo</item>
-<item>com_douban_frodo_past</item>
-<item>com_douban_group</item>
-<item>com_douban_movie</item>
-<item>com_douban_radio</item>
-<item>com_douban_radio_past</item>
-<item>com_douban_shuo</item>
-<item>com_doubletwist_androidplayer</item>
-<item>com_douguo_recipe</item>
-<item>com_dou_pai_doupai</item>
-<item>com_dp_android_elong</item>
-<item>com_dragon_android_pandaspace</item>
-<item>com_draw_huapipi</item>
-<item>com_dreamboard_android</item>
-<item>com_droidhen_game_xrunner</item>
-<item>com_dropbox_android</item>
-<item>com_duitang_main</item>
-<item>com_duoduo_child_story</item>
-<item>com_duoduo_passenger</item>
-<item>com_duokan_phone_remotecontroller</item>
-<item>com_duokan_reader</item>
-<item>com_duoku_coolreader</item>
-<item>com_duolingo</item>
-<item>com_duomi_android</item>
-<item>com_duotin_fm</item>
-<item>com_duowan_kiwi</item>
-<item>com_duowan_lolbox</item>
-<item>com_duowan_mobile</item>
-<item>com_durex</item>
-<item>com_dushe_movie</item>
-<item>com_dyj_lottery</item>
-<item>com_e8tracks</item>
-<item>com_easou_sdx</item>
-<item>com_eastmoney_android_berlin</item>
-<item>com_easylife_weather</item>
-<item>com_easylinky_goform</item>
-<item>com_ea_games_r3_na</item>
-<item>com_ea_games_r3_row</item>
-<item>com_ea_games_simsfreeplay_na</item>
-<item>com_ea_view</item>
-<item>com_ebay_mobile</item>
-<item>com_ecapycsw_onetouchdrawing</item>
-<item>com_echofon</item>
-<item>com_ecitic_bank_mobile</item>
-<item>com_edcsc_wbus</item>
-<item>com_edog</item>
-<item>com_edooon_gps</item>
-<item>com_eg_android_alipaygphone</item>
-<item>com_eico_weico</item>
-<item>com_elextech_alert</item>
-<item>com_elinkway_tvlive2</item>
-<item>com_em_mobile</item>
-<item>com_enfeel_birzzle</item>
-<item>com_environmentpollution_activity</item>
-<item>com_ermiao</item>
-<item>com_escapistgames_starchart</item>
-<item>com_estrongs_android_pop</item>
-<item>com_esvideo</item>
-<item>com_etao_kaka</item>
-<item>com_eusoft_dehelper</item>
-<item>com_eusoft_eudic</item>
-<item>com_eusoft_frhelper</item>
-<item>com_eusoft_ting_en</item>
-<item>com_everimaging_photoeffectstudio</item>
-<item>com_evernote</item>
-<item>com_evernote_food</item>
-<item>com_evernote_food_past</item>
-<item>com_evernote_hello</item>
-<item>com_evernote_past</item>
-<item>com_evernote_skitch</item>
-<item>com_evernote_world</item>
-<item>com_expedia_bookings</item>
-<item>com_eyesthegame_eyes</item>
-<item>com_eyesthegame_hh_eyes</item>
-<item>com_ez08_bendi</item>
-<item>com_ezjoynetwork_gardenmania</item>
-<item>com_ezone_snowboard</item>
-<item>com_facebook_katana</item>
-<item>com_facebook_orca</item>
-<item>com_facebook_slingshot</item>
-<item>com_fairytale_fortune</item>
-<item>com_fanfou</item>
-<item>com_fanqie_menu</item>
-<item>com_fantasmosoft_free_memory_recover</item>
-<item>com_fdgentertainment_bananakong</item>
-<item>com_feelingtouch_gnz</item>
-<item>com_feelingtouch_ninjarundeluxe</item>
-<item>com_feibo_joke</item>
-<item>com_feinno_felio</item>
-<item>com_fenbi_android_cjkj</item>
-<item>com_fenbi_android_essay</item>
-<item>com_fenbi_android_flgw</item>
-<item>com_fenbi_android_gaokao</item>
-<item>com_fenbi_android_gaozhong</item>
-<item>com_fenbi_android_kyzz</item>
-<item>com_fenbi_android_servant</item>
-<item>com_fenbi_android_sikao</item>
-<item>com_fenbi_android_solar</item>
-<item>com_fenbi_android_yijian</item>
-<item>com_fenbi_android_zqcy</item>
-<item>com_fenqile_fenqile</item>
-<item>com_fhhr_launcherex1</item>
-<item>com_fiec_ahorro</item>
-<item>com_fifa_fifaapp_android</item>
-<item>com_fingersoft_cartooncamera</item>
-<item>com_firemaplegames_thelostcity</item>
-<item>com_fitbit_fitbitmobile</item>
-<item>com_fivehundredpx_viewer</item>
-<item>com_fivehundredpx_viewerz_com_fivehundredpx_viewer</item>
-<item>com_fivehundredpx_viewer_main</item>
-<item>com_fivehundredpx_viewer_past</item>
-<item>com_fiveone_sds_wdj</item>
-<item>com_flightmanager_view</item>
-<item>com_flyfish_supermario</item>
-<item>com_flynx</item>
-<item>com_fm_goodnight</item>
-<item>com_fone_player</item>
-<item>com_font</item>
-<item>com_forbiddencity_hanxizaieveningbanquet</item>
-<item>com_forthblue_pool</item>
-<item>com_founder_poetry</item>
-<item>com_fourdesire_plantnanny</item>
-<item>com_foursquare_robin</item>
-<item>com_frego_flashlight</item>
-<item>com_freshideas_airindex</item>
-<item>com_freshideas_airindexcom_freshideas_airindex</item>
-<item>com_ft</item>
-<item>com_funcity_taxi_passenger</item>
-<item>com_funcity_taxi_passenger_past</item>
-<item>com_funinput_digit</item>
-<item>com_funshion_video_mobile</item>
-<item>com_futurefleet_pandabus_ui</item>
-<item>com_g2us_armedwarriorsqq</item>
-<item>com_g2us_armedwarriors_wandoujia</item>
-<item>com_gale_sanguokill_hd</item>
-<item>com_gameabc_zhanqiandroid</item>
-<item>com_gamelion_monstershooter</item>
-<item>com_gameloft_android_anmp_glofta6hp</item>
-<item>com_gameloft_android_anmp_glofta8cn_wdj</item>
-<item>com_gameloft_android_anmp_gloftamhm</item>
-<item>com_gameloft_android_anmp_gloftdmcn</item>
-<item>com_gameloft_android_anmp_gloftm4hm</item>
-<item>com_gameloft_android_anmp_gloftmbhm</item>
-<item>com_gameloft_android_gand_gloftasphalt5_asphalt5</item>
-<item>com_gamestar_perfectpiano</item>
-<item>com_gamestar_pianoperfect</item>
-<item>com_game_dragon_wdj</item>
-<item>com_ganhuoche_client_book</item>
-<item>com_ganji_android</item>
-<item>com_gaopeng</item>
-<item>com_gau_go_launcherex_gowidget_taskmanager</item>
-<item>com_gau_go_launcherex_gowidget_taskmanagerex</item>
-<item>com_gau_go_launcherex_gowidget_weatherwidget</item>
-<item>com_geico_mobile</item>
-<item>com_geili_gou</item>
-<item>com_geili_koudai</item>
-<item>com_getsetgames_megarun</item>
-<item>com_gewara</item>
-<item>com_gift_android</item>
-<item>com_gionee_client</item>
-<item>com_gogn_efandroid</item>
-<item>com_gold_palm_kitchen</item>
-<item>com_gome_eshopnew</item>
-<item>com_google_android_apps_authenticator2</item>
-<item>com_google_android_apps_chromecast</item>
-<item>com_google_android_apps_chromecast_app</item>
-<item>com_google_android_apps_docs</item>
-<item>com_google_android_apps_docs_editors_docs</item>
-<item>com_google_android_apps_docs_editors_sheets</item>
-<item>com_google_android_apps_docs_editors_slides</item>
-<item>com_google_android_apps_fitness</item>
-<item>com_google_android_apps_genie_geniewidget</item>
-<item>com_google_android_apps_genie_geniewidgetz_com_google_android_apps_gen
-                                                 ie_geniewidget</item>
-<item>com_google_android_apps_inbox</item>
-<item>com_google_android_apps_magazines</item>
-<item>com_google_android_apps_magazinesic_launcher_newsstand</item>
-<item>com_google_android_apps_maps</item>
-<item>com_google_android_apps_mapsic_launcher_maps</item>
-<item>com_google_android_apps_photos</item>
-<item>com_google_android_apps_plus</item>
-<item>com_google_android_apps_plusicon</item>
-<item>com_google_android_apps_translate</item>
-<item>com_google_android_apps_translateic_launcher</item>
-<item>com_google_android_apps_walletnfcrel</item>
-<item>com_google_android_calculator</item>
-<item>com_google_android_calendar</item>
-<item>com_google_android_contacts</item>
-<item>com_google_android_deskclock</item>
-<item>com_google_android_dialer</item>
-<item>com_google_android_email</item>
-<item>com_google_android_gm</item>
-<item>com_google_android_gms</item>
-<item>com_google_android_gmscommon_settings_icon</item>
-<item>com_google_android_gmsz_com_google_android_gms</item>
-<item>com_google_android_googlecamera</item>
-<item>com_google_android_googlequicksearchbox</item>
-<item>com_google_android_googlequicksearchboxic_launcher_google_search</item>
-<item>com_google_android_inputmethod_japanese</item>
-<item>com_google_android_inputmethod_latin</item>
-<item>com_google_android_inputmethod_pinyin</item>
-<item>com_google_android_inputmethod_pinyinz_com_google_android_inputmethod_
-                                                 pinyin</item>
-<item>com_google_android_keep</item>
-<item>com_google_android_launcher</item>
-<item>com_google_android_marvin_talkback</item>
-<item>com_google_android_music</item>
-<item>com_google_android_musicic_launcher_play_music</item>
-<item>com_google_android_play_games</item>
-<item>com_google_android_play_gamesic_launcher_play_games</item>
-<item>com_google_android_street</item>
-<item>com_google_android_tts</item>
-<item>com_google_android_videos</item>
-<item>com_google_android_videosic_launcher_videos</item>
-<item>com_google_android_voicesearch</item>
-<item>com_google_android_youtube</item>
-<item>com_google_android_youtubey_com_google_android_youtube</item>
-<item>com_google_android_youtubez_com_google_android_youtube</item>
-<item>com_google_android_youtube_icon_2_past</item>
-<item>com_google_earth</item>
-<item>com_google_samples_apps_cardboarddemo</item>
-<item>com_google_zxing_client_android</item>
-<item>com_gopro_smarty</item>
-<item>com_gotokeep_keep</item>
-<item>com_gozap_chouti</item>
-<item>com_gracecode_android_rain</item>
-<item>com_greenline_guahao</item>
-<item>com_greenpoint_android_mc10086_activity</item>
-<item>com_groupon_dev</item>
-<item>com_gtgj_view</item>
-<item>com_gtsoft_kidmath</item>
-<item>com_guokr_android</item>
-<item>com_guokr_fanta</item>
-<item>com_guokr_mentor</item>
-<item>com_guokr_pregnant</item>
-<item>com_guokr_zhixing</item>
-<item>com_guoku</item>
-<item>com_gypsii_activity</item>
-<item>com_gzrcb_mobilebank</item>
-<item>com_halfbrick_fruitninjafree</item>
-<item>com_handsgo_jiakao_android</item>
-<item>com_hangye_xyyh47</item>
-<item>com_hanhua_plagueinc</item>
-<item>com_haobao_wardrobe</item>
-<item>com_haodou_recipe</item>
-<item>com_haomee_kandongman</item>
-<item>com_happyelements_androidanimal</item>
-<item>com_happyelements_androidanimal_wdj</item>
-<item>com_happyelements_happyfishandroidcns</item>
-<item>com_happyjuzi_apps_juzi</item>
-<item>com_happyteam_dubbingshow</item>
-<item>com_happyteam_dubbingshowz_com_happyteam_dubbingshow</item>
-<item>com_heiyan_reader</item>
-<item>com_hellotalk</item>
-<item>com_hexin_android_bank</item>
-<item>com_hexin_plat_android</item>
-<item>com_hexun_forex</item>
-<item>com_hexun_mobile</item>
-<item>com_hipu_yidian</item>
-<item>com_hisunflytone_android</item>
-<item>com_hiwifi</item>
-<item>com_hjclass_mobile</item>
-<item>com_hjenglish_app_dailysentence</item>
-<item>com_hjenglish_app_dailyspeech</item>
-<item>com_hjenglish_dailyspeech</item>
-<item>com_hjwordgames</item>
-<item>com_hj_dictation</item>
-<item>com_hj_meiwen</item>
-<item>com_hj_nce</item>
-<item>com_hj_ssn</item>
-<item>com_hm</item>
-<item>com_hodanet_yanwenzi</item>
-<item>com_hola_launcher</item>
-<item>com_homelink_android</item>
-<item>com_homelink_androidicon</item>
-<item>com_hoodinn_venus</item>
-<item>com_hortor_songtoword</item>
-<item>com_hotelvp_tonight</item>
-<item>com_hp_mit_atmobile_kfc</item>
-<item>com_hsj_ccae37</item>
-<item>com_htc_album</item>
-<item>com_htc_android_mail</item>
-<item>com_htc_android_worldclock</item>
-<item>com_htc_calendar</item>
-<item>com_htc_camera</item>
-<item>com_htc_contacts</item>
-<item>com_htc_fm</item>
-<item>com_htc_lucy</item>
-<item>com_htc_music</item>
-<item>com_htc_sense_mms</item>
-<item>com_htc_soundrecorder</item>
-<item>com_htc_task</item>
-<item>com_htc_weather</item>
-<item>com_htc_zero</item>
-<item>com_htinns</item>
-<item>com_huaban_android</item>
-<item>com_huawei_dsm_mail</item>
-<item>com_huawei_hidisk</item>
-<item>com_huawei_kobackup</item>
-<item>com_huimao_bobo</item>
-<item>com_huizheng_tcrl</item>
-<item>com_hujiang_cctalk</item>
-<item>com_hujiang_dict</item>
-<item>com_hujiang_hjclass</item>
-<item>com_hujiang_news</item>
-<item>com_hujiang_normandy</item>
-<item>com_hulu_plus</item>
-<item>com_hunantv_imgo_activity</item>
-<item>com_hundsun_winner_pazq</item>
-<item>com_huofar</item>
-<item>com_huohoubrowser</item>
-<item>com_hupu_games</item>
-<item>com_hupu_joggers</item>
-<item>com_hupu_shihuo</item>
-<item>com_hupu_sns</item>
-<item>com_husor_beibei</item>
-<item>com_husor_mizhe</item>
-<item>com_hyhy_view</item>
-<item>com_hyx_maizuo_main</item>
-<item>com_hy_minifetion</item>
-<item>com_hzhu_m</item>
-<item>com_i428_findthespy</item>
-<item>com_iasolution_games_kysp_zhtw</item>
-<item>com_iblacksun_riding</item>
-<item>com_ibookstar_activity</item>
-<item>com_icarsclub_android</item>
-<item>com_icbc</item>
-<item>com_ichi2_anki</item>
-<item>com_icloudoor_bizranking</item>
-<item>com_icoolme_android_weather</item>
-<item>com_icson</item>
-<item>com_ideashower_readitlater_pro</item>
-<item>com_ideashower_readitlater_pro_past</item>
-<item>com_idothing_zz</item>
-<item>com_ifanr_activitys</item>
-<item>com_ifanr_android</item>
-<item>com_ifeng_fhdt</item>
-<item>com_ifeng_news2</item>
-<item>com_ifeng_newvideo</item>
-<item>com_iflytek_cmcc</item>
-<item>com_iflytek_inputmethod</item>
-<item>com_iflytek_inputmethodcom_iflytek_inputmethod</item>
-<item>com_iflytek_ringdiyclient</item>
-<item>com_iflytek_speechcloud</item>
-<item>com_ifttt_ifttt</item>
-<item>com_ifttt_iftttgood</item>
-<item>com_ijinshan_browser</item>
-<item>com_ijinshan_browser_fast</item>
-<item>com_ijinshan_duba</item>
-<item>com_ijinshan_kbatterydoctor</item>
-<item>com_ijinshan_mguard</item>
-<item>com_ijinshan_shoujikong_androiddaemon</item>
-<item>com_ikan_ui</item>
-<item>com_ikea_catalogue_android</item>
-<item>com_ilegendsoft_mercury</item>
-<item>com_ilongyuan_implosion_uc</item>
-<item>com_imangi_templerun</item>
-<item>com_imangi_templerun2</item>
-<item>com_imdb_mobile</item>
-<item>com_imfclub_stock</item>
-<item>com_immomo_momo</item>
-<item>com_immomo_momoz_com_immomo_momo</item>
-<item>com_imohoo_favorablecard</item>
-<item>com_inditex_zara</item>
-<item>com_infraware_polarisoffice4</item>
-<item>com_innorz_venus</item>
-<item>com_instagram_android</item>
-<item>com_instagram_androidz_com_instagram_android</item>
-<item>com_instagram_boomerang</item>
-<item>com_instamag_activity</item>
-<item>com_instapaper_android</item>
-<item>com_intsig_bcrlite</item>
-<item>com_intsig_bizcardreader</item>
-<item>com_intsig_bizcardreader_past</item>
-<item>com_intsig_camdict</item>
-<item>com_intsig_camscanner</item>
-<item>com_intsig_lic_camscanner</item>
-<item>com_invictus_impossiball</item>
-<item>com_iorcas_fellow</item>
-<item>com_ipeaksoft_pitdadgame</item>
-<item>com_ireadercity</item>
-<item>com_ironhidegames_android_kingdomrush</item>
-<item>com_ironhidegames_android_kingdomrushfrontiers</item>
-<item>com_ishuhui_comic</item>
-<item>com_ismaker_android_simsimi</item>
-<item>com_issuu_android</item>
-<item>com_itaimi_colorrun</item>
-<item>com_itcode_reader</item>
-<item>com_itings_myradio</item>
-<item>com_itpositive_solar</item>
-<item>com_iuumobile_activity</item>
-<item>com_iyd_reader_readingjoy</item>
-<item>com_jadenine_email</item>
-<item>com_jawbone_up</item>
-<item>com_jbapps_contact</item>
-<item>com_jbapps_contactpro</item>
-<item>com_jb_gokeyboard</item>
-<item>com_jb_gosms</item>
-<item>com_jd_jrapp</item>
-<item>com_jesson_meishi</item>
-<item>com_jianjian_clock_activity</item>
-<item>com_jianlv_chufaba</item>
-<item>com_jianshu_haruki</item>
-<item>com_jianut_bedworm</item>
-<item>com_jiasoft_swreader</item>
-<item>com_jiayuan</item>
-<item>com_jiecao_news_jiecaonews</item>
-<item>com_jiemian_news</item>
-<item>com_jiemian_newsz_com_jiemian_news</item>
-<item>com_jiepang_android</item>
-<item>com_jiji</item>
-<item>com_jike_news</item>
-<item>com_jingdong_app_mall</item>
-<item>com_jingdong_app_mallz_com_jingdong_app_mall</item>
-<item>com_jingdong_pdj</item>
-<item>com_jingfm</item>
-<item>com_jingwei_card</item>
-<item>com_jiongji_andriod_card</item>
-<item>com_jiubang_browser</item>
-<item>com_jiubang_goscreenlock</item>
-<item>com_jiuguo_app</item>
-<item>com_jiuyan_infashion</item>
-<item>com_jm_android_jumei</item>
-<item>com_job_android</item>
-<item>com_joelapenna_foursquared</item>
-<item>com_join_android_app_mgsim</item>
-<item>com_joym_xiongdakuaipao</item>
-<item>com_joyuan_douban_dongxi</item>
-<item>com_jsdev_instasize</item>
-<item>com_jsmcc</item>
-<item>com_jxedt</item>
-<item>com_jzt</item>
-<item>com_jzyd_bantang</item>
-<item>com_kaixin001_activity</item>
-<item>com_kakao_talk</item>
-<item>com_kakapo_freeslots</item>
-<item>com_kanbox_wp</item>
-<item>com_kandian_hdtogoapp</item>
-<item>com_kandian_vodapp</item>
-<item>com_kanjian_radio</item>
-<item>com_kaola</item>
-<item>com_kapp_ifont</item>
-<item>com_kascend_chushou</item>
-<item>com_kascend_video</item>
-<item>com_kayak_android</item>
-<item>com_kb_carrom3dfull</item>
-<item>com_kekeclient_</item>
-<item>com_kellinoda_battleheart</item>
-<item>com_keramidas_titaniumbackup</item>
-<item>com_keyloftllc_chinataxi_jnb_cn_sd</item>
-<item>com_kgkj_zc_fkmm</item>
-<item>com_kibey_echo</item>
-<item>com_kiloo_subwaysurf</item>
-<item>com_kingdee_express</item>
-<item>com_kingnez_umasou</item>
-<item>com_kingnez_umasou_app</item>
-<item>com_kingreader_framework</item>
-<item>com_kingroot_kinguser</item>
-<item>com_kingsoft</item>
-<item>com_kingsofticon</item>
-<item>com_kingsoft_email</item>
-<item>com_king_candycrushsaga</item>
-<item>com_king_farmheroessaga</item>
-<item>com_kkeji_news_client</item>
-<item>com_kk_poem</item>
-<item>com_kk_poemic_launcher</item>
-<item>com_klicktock_littlethings2</item>
-<item>com_kongzhong_kzsecprotect</item>
-<item>com_kongzue_paywhere</item>
-<item>com_koudai_weidian_buyer</item>
-<item>com_koudai_weishop</item>
-<item>com_ksmobile_cb</item>
-<item>com_ku6_client_ui</item>
-<item>com_kuaikan_comic</item>
-<item>com_kugou_android</item>
-<item>com_kugou_androidz_com_kugou_android</item>
-<item>com_kugou_fm</item>
-<item>com_kunpeng_babyting</item>
-<item>com_kunpo_baba91</item>
-<item>com_kuxun_scliang_huoche</item>
-<item>com_kuxun_scliang_plane</item>
-<item>com_kuxun_scliang_travel</item>
-<item>com_laiqian_milestone</item>
-<item>com_lakala_android</item>
-<item>com_lanrenzhoumo_weekend</item>
-<item>com_lanteanstudio_compass</item>
-<item>com_lantouzi_app</item>
-<item>com_lashou_groupurchasing</item>
-<item>com_lashou_groupurchasingic_launcher</item>
-<item>com_lasoo_android_target</item>
-<item>com_lbe_parallel</item>
-<item>com_ledong_musicbox</item>
-<item>com_lehe_food</item>
-<item>com_lejent_zuoyeshenqi_afanti</item>
-<item>com_leju_platform</item>
-<item>com_lemon_faceu</item>
-<item>com_lengtoo_impression</item>
-<item>com_lenovo_anyshare</item>
-<item>com_lenovo_anysharez_com_lenovo_anyshare</item>
-<item>com_lenovo_leos_cloud_sync</item>
-<item>com_lenovo_magicplus</item>
-<item>com_lenovo_safecenter</item>
-<item>com_lesports_glivesports</item>
-<item>com_lesports_glivesportsz_com_lesports_glivesports</item>
-<item>com_letv_android_client</item>
-<item>com_lgl_calendar</item>
-<item>com_liangcang</item>
-<item>com_lianliantech_lianlian</item>
-<item>com_lianyou_wifiplus</item>
-<item>com_liba_android_meet</item>
-<item>com_lietou_mishu</item>
-<item>com_lightricks_facetune</item>
-<item>com_linecorp_b612_android</item>
-<item>com_linekong_t3_wdj</item>
-<item>com_lingan_seeyou</item>
-<item>com_lingduo_acorn</item>
-<item>com_linkbubble_playstore</item>
-<item>com_linkedin_android</item>
-<item>com_linkedin_android_past</item>
-<item>com_linkedin_chitu</item>
-<item>com_liquable_nemo</item>
-<item>com_liulishuo_engzo</item>
-<item>com_liulishuo_engzoz_com_liulishuo_engzo</item>
-<item>com_liveyap_timehut</item>
-<item>com_liwushuo_gifttalk</item>
-<item>com_lltskb_lltskb</item>
-<item>com_locojoy_immt_a_chs_uc_standard</item>
-<item>com_locojoy_punchbox_immt_a_chs_standard_wdj</item>
-<item>com_lofter_android</item>
-<item>com_lofter_androidic_launcher</item>
-<item>com_lonelyfew_blendoku</item>
-<item>com_lookout</item>
-<item>com_lovebizhi_wallpaper</item>
-<item>com_lovinc_radio</item>
-<item>com_ltz_dict</item>
-<item>com_ltz_dict_charactersdict</item>
-<item>com_ludashi_benchmark</item>
-<item>com_lufax_android</item>
-<item>com_luojilab_player</item>
-<item>com_lx_qm</item>
-<item>com_m1905_mobilefree</item>
-<item>com_mailboxapp</item>
-<item>com_mandian_android_dongdong</item>
-<item>com_mandongkeji_comiclover</item>
-<item>com_mangrove_seedmail</item>
-<item>com_manle_phone_android_makeup</item>
-<item>com_manle_phone_android_yaodian</item>
-<item>com_manmanbuy_bijia</item>
-<item>com_mapbar_android_accompany</item>
-<item>com_mapbar_android_mapbarmap</item>
-<item>com_mappn_gfan</item>
-<item>com_mars_miuifilemanager</item>
-<item>com_masshabit_squibble_paid</item>
-<item>com_maxmpz_audioplayer</item>
-<item>com_mediocre_smashhit</item>
-<item>com_medium_reader</item>
-<item>com_meelive_ingkee</item>
-<item>com_meile_mobile_scene</item>
-<item>com_meilishuo</item>
-<item>com_meiriyiwen_app</item>
-<item>com_meishixing_crazysight</item>
-<item>com_meitu_makeup</item>
-<item>com_meitu_meipaimv</item>
-<item>com_meitu_meiyancamera</item>
-<item>com_meitu_poster</item>
-<item>com_meitu_wheecam</item>
-<item>com_meizu_customizecenter</item>
-<item>com_meizu_filemanager</item>
-<item>com_meizu_flyme_calculator</item>
-<item>com_meizu_flyme_find</item>
-<item>com_meizu_flyme_gamecenter</item>
-<item>com_meizu_flyme_launcher</item>
-<item>com_meizu_flyme_toolbox</item>
-<item>com_meizu_flyme_update</item>
-<item>com_meizu_flyme_weather</item>
-<item>com_meizu_media_camera</item>
-<item>com_meizu_media_gallery</item>
-<item>com_meizu_media_life</item>
-<item>com_meizu_media_music</item>
-<item>com_meizu_media_painter</item>
-<item>com_meizu_media_reader</item>
-<item>com_meizu_media_video</item>
-<item>com_meizu_mstore</item>
-<item>com_meizu_net_map</item>
-<item>com_meizu_notepaper</item>
-<item>com_meizu_safe</item>
-<item>com_meizu_voiceassistant</item>
-<item>com_melodis_midomimusicidentifier_freemium</item>
-<item>com_memory_me</item>
-<item>com_merriamwebster</item>
-<item>com_merriamwebster_past</item>
-<item>com_metago_astro</item>
-<item>com_metek_zqweather</item>
-<item>com_mfp_frozen_playgame_disney_wdj</item>
-<item>com_mfw_roadbook</item>
-<item>com_mfw_voiceguide</item>
-<item>com_mgyun_rootmaster</item>
-<item>com_mgyun_shua</item>
-<item>com_miantan_myoface</item>
-<item>com_mia_miababy</item>
-<item>com_microsoft_bing</item>
-<item>com_microsoft_cortana</item>
-<item>com_microsoft_office_officehub</item>
-<item>com_microsoft_office_officelens</item>
-<item>com_microsoft_skydrive</item>
-<item>com_midea_airquality</item>
-<item>com_mindoop_apps_brainpk</item>
-<item>com_mingdao</item>
-<item>com_mingzhihuatong_muochi</item>
-<item>com_miniclip_plagueinc</item>
-<item>com_miniflashlight</item>
-<item>com_mipay_wallet</item>
-<item>com_mishi_android_mainapp</item>
-<item>com_miui_bugreport</item>
-<item>com_miui_compass</item>
-<item>com_miui_fm</item>
-<item>com_miui_fmradio</item>
-<item>com_miui_gallery</item>
-<item>com_miui_home</item>
-<item>com_miui_notes</item>
-<item>com_miui_player</item>
-<item>com_miui_securitycenter</item>
-<item>com_miui_video</item>
-<item>com_miui_voiceassist</item>
-<item>com_miui_weather2</item>
-<item>com_mmbox_xbrowser</item>
-<item>com_mmgame_stickman</item>
-<item>com_mmmono_mono</item>
-<item>com_mm_wxdh</item>
-<item>com_mobeam_beepngo</item>
-<item>com_mobike_mobikeapp</item>
-<item>com_mobile17173_game</item>
-<item>com_mobileann_mobileann</item>
-<item>com_mobilesrepublic_appygeekchina</item>
-<item>com_mobileticket</item>
-<item>com_mobisystems_fileman_sonychina</item>
-<item>com_mobisystems_office</item>
-<item>com_mobvoi_baiding</item>
-<item>com_mobvoi_companion</item>
-<item>com_moco</item>
-<item>com_mogujie</item>
-<item>com_mogujiez_com_mogujie</item>
-<item>com_mojang_minecraftpe</item>
-<item>com_moji_camera</item>
-<item>com_moji_mjweather</item>
-<item>com_moliplayer_android</item>
-<item>com_momihot_colorfill</item>
-<item>com_mop_activity</item>
-<item>com_moregg_vida</item>
-<item>com_moscreen</item>
-<item>com_motionone_afterfocus</item>
-<item>com_motorola_fmradio</item>
-<item>com_movier_crazy</item>
-<item>com_movier_magicbox</item>
-<item>com_movingstudio_ilikebeingwithyou</item>
-<item>com_movingstudio_misswind</item>
-<item>com_moxiu_launcher</item>
-<item>com_mrocker_cheese</item>
-<item>com_msc_sprite</item>
-<item>com_mtime</item>
-<item>com_mtvn_mtvprimeandroid</item>
-<item>com_mt_mtgif</item>
-<item>com_mt_mttt</item>
-<item>com_mt_mtxx_mtxx</item>
-<item>com_mt_mtxx_mtxxz_com_mt_mtxx_mtxx</item>
-<item>com_muer_tv</item>
-<item>com_musixmatch_android_lyrify</item>
-<item>com_muzhiwan_market</item>
-<item>com_mxtech_videoplayer_ad</item>
-<item>com_mxtech_videoplayer_adicon</item>
-<item>com_mx_browser</item>
-<item>com_mx_browser_tablet</item>
-<item>com_mybank_android_phone</item>
-<item>com_mybook66</item>
-<item>com_mybook66z_com_mybook66</item>
-<item>com_mybo_tetris</item>
-<item>com_mydrivers_newsclient</item>
-<item>com_mygolbs_mybus</item>
-<item>com_mymoney</item>
-<item>com_mymoney_sms</item>
-<item>com_myzaker_aplan</item>
-<item>com_myzaker_zaker_phone</item>
-<item>com_mzba_happy_laugh</item>
-<item>com_mzread_mzbook</item>
-<item>com_nandu</item>
-<item>com_nate_android_portalmini</item>
-<item>com_naver_linewebtoon</item>
-<item>com_nb_fingerprint_lock</item>
-<item>com_nds_activity</item>
-<item>com_nduoa_nmarket</item>
-<item>com_nd_android_pandahome2</item>
-<item>com_nd_android_pandareader</item>
-<item>com_nd_android_smarthome</item>
-<item>com_nd_sms</item>
-<item>com_nearme_note</item>
-<item>com_nearme_noteic_launcher_nearme_note</item>
-<item>com_neihanshe_intention</item>
-<item>com_nekki_shadowfight</item>
-<item>com_nerdyoctopus_gamedots</item>
-<item>com_netease_apper</item>
-<item>com_netease_caipiao</item>
-<item>com_netease_cc</item>
-<item>com_netease_cloudmusic</item>
-<item>com_netease_cloudmusicz_com_netease_cloudmusic</item>
-<item>com_netease_edu_study</item>
-<item>com_netease_gamecenter</item>
-<item>com_netease_huatian</item>
-<item>com_netease_ldxy</item>
-<item>com_netease_ldxy_uc</item>
-<item>com_netease_loftercam_activity</item>
-<item>com_netease_mail</item>
-<item>com_netease_mobimail</item>
-<item>com_netease_mobimail_past</item>
-<item>com_netease_moneykeeper</item>
-<item>com_netease_movie</item>
-<item>com_netease_newsreader_activity</item>
-<item>com_netease_newsreader_activityz_com_netease_newsreader_activity</item>
-<item>com_netease_ntespm</item>
-<item>com_netease_onmyoji</item>
-<item>com_netease_pris</item>
-<item>com_netease_railwayticket</item>
-<item>com_netease_vopen</item>
-<item>com_netease_vopen_past</item>
-<item>com_netease_yanxuan</item>
-<item>com_netfeige</item>
-<item>com_netflix_mediaclient</item>
-<item>com_neuralprisma</item>
-<item>com_neusoft_td_android_wo116114</item>
-<item>com_nexon_kartriderrush_android_tstore</item>
-<item>com_nextdev_alarm</item>
-<item>com_nextmedia</item>
-<item>com_nianticproject_ingress</item>
-<item>com_nice_main</item>
-<item>com_nike_fb</item>
-<item>com_nike_ntc</item>
-<item>com_nike_ntcic_launcher</item>
-<item>com_nike_pass_root</item>
-<item>com_nike_plusgps</item>
-<item>com_nike_plusgpschina</item>
-<item>com_nike_plusgpschinaicon</item>
-<item>com_nike_plusgpsicon</item>
-<item>com_nikolaysoft_flashlight</item>
-<item>com_niksoftware_snapseed</item>
-<item>com_ninegag_android</item>
-<item>com_niting</item>
-<item>com_niu_cloud</item>
-<item>com_nmhai_ideashow</item>
-<item>com_noodlecake_anothercasesolved</item>
-<item>com_noodlecake_rsb</item>
-<item>com_noom_walk</item>
-<item>com_northpark_pushups</item>
-<item>com_noshufou_android_su</item>
-<item>com_noshufou_android_su_elite</item>
-<item>com_noshufou_android_su_fixer</item>
-<item>com_notegraphy</item>
-<item>com_nowcasting_activity</item>
-<item>com_nqmobile_antivirus20_multilang</item>
-<item>com_nuandao_nuandaoapp</item>
-<item>com_nuomi</item>
-<item>com_nuomiic_launcher</item>
-<item>com_nuomi_merchant</item>
-<item>com_nytimes_android</item>
-<item>com_oasisfeng_greenify</item>
-<item>com_occipital_panorama</item>
-<item>com_octinn_birthdayplus</item>
-<item>com_ogqcorp_tpa</item>
-<item>com_ohsame_android</item>
-<item>com_okbuy_activity</item>
-<item>com_olivephone_edit</item>
-<item>com_omesoft_firstaid</item>
-<item>com_omesoft_hypnotherapist</item>
-<item>com_omgpop_dstpaid</item>
-<item>com_openet_hotel_view</item>
-<item>com_openpos_android_openpos</item>
-<item>com_openrice_android</item>
-<item>com_oray_sunlogin</item>
-<item>com_oupeng_browser</item>
-<item>com_oupeng_mini_android</item>
-<item>com_ourlinc</item>
-<item>com_outfit7_talkingben</item>
-<item>com_outfit7_talkingtom2free</item>
-<item>com_outfit7_talkingtompro</item>
-<item>com_outfit7_tomslovelettersfree</item>
-<item>com_outlook_z7</item>
-<item>com_ovelin_guitartuna</item>
-<item>com_overllc_over</item>
-<item>com_overlook_android_fing</item>
-<item>com_p1_mobile_putong</item>
-<item>com_paladin_gunstrike</item>
-<item>com_palmtrends_nfrwzk</item>
-<item>com_pamirs_taobaoling</item>
-<item>com_panda_videoliveplatform</item>
-<item>com_pandora_android</item>
-<item>com_paramount_interstellar</item>
-<item>com_path</item>
-<item>com_path_paperboy</item>
-<item>com_pdswp_su_smartcalendar</item>
-<item>com_peopledailychina_activity</item>
-<item>com_pep_biaori</item>
-<item>com_philips_air</item>
-<item>com_pianke_client</item>
-<item>com_picsart_studio</item>
-<item>com_pikpok_mamcb</item>
-<item>com_pindou_snacks</item>
-<item>com_pingan_lifeinsurance</item>
-<item>com_pingan_pabank_activity</item>
-<item>com_pingan_papd</item>
-<item>com_pingan_wanlitong</item>
-<item>com_pinger_pa</item>
-<item>com_pinguo_edit_sdk</item>
-<item>com_pinguo_edit_sdkz_com_pinguo_edit_sdk_1420781473</item>
-<item>com_pinterest</item>
-<item>com_piriform_ccleaner</item>
-<item>com_pixlr_express</item>
-<item>com_playcrab_hebe_androidwdj</item>
-<item>com_playcreek_deathworm</item>
-<item>com_plexapp_android</item>
-<item>com_plexapp_plex</item>
-<item>com_pocket_cn</item>
-<item>com_pokercity_ddz</item>
-<item>com_pomotodo</item>
-<item>com_popcap_pvz</item>
-<item>com_popcap_pvz2cthdwdj</item>
-<item>com_pplive_androidphone</item>
-<item>com_pplive_androidphonez_com_pplive_androidphone</item>
-<item>com_pplive_androidphone_sport</item>
-<item>com_pp_assistant</item>
-<item>com_privatekitchen_huijia</item>
-<item>com_producteev_android_alpha22</item>
-<item>com_puntek_calculator</item>
-<item>com_puscene_client</item>
-<item>com_pushbullet_android</item>
-<item>com_putao_live</item>
-<item>com_pxlartificer_minu</item>
-<item>com_pybeta_daymatter</item>
-<item>com_qdaily_ui</item>
-<item>com_qianxun_yingshi2</item>
-<item>com_qidian_qdreader</item>
-<item>com_qigame_lock</item>
-<item>com_qihoo360_mobilesafe</item>
-<item>com_qihoo_antivirus</item>
-<item>com_qihoo_appstore</item>
-<item>com_qihoo_browser</item>
-<item>com_qihoo_video</item>
-<item>com_qihoo_wifi</item>
-<item>com_qihoo_yunpan</item>
-<item>com_qijia_o2o</item>
-<item>com_qikan_dy_lydingyue</item>
-<item>com_qiyi_video</item>
-<item>com_qiyi_video_market</item>
-<item>com_qiyi_video_pad</item>
-<item>com_qo_android_am3</item>
-<item>com_qqgame_happymj</item>
-<item>com_qqgame_hlddz</item>
-<item>com_qqgame_mic</item>
-<item>com_qq_ac_android</item>
-<item>com_qq_ac_androidz_com_qq_ac_android</item>
-<item>com_qq_qcloud</item>
-<item>com_qq_reader</item>
-<item>com_quanleimu_activity</item>
-<item>com_quark_browser</item>
-<item>com_qufenqi_android_app</item>
-<item>com_quip_quip</item>
-<item>com_qunar</item>
-<item>com_qunar_dangdi</item>
-<item>com_qunar_hotel</item>
-<item>com_qunar_travelplan</item>
-<item>com_quora_android</item>
-<item>com_quvideo_xiaoying</item>
-<item>com_qvod_player</item>
-<item>com_qxtimes_ring</item>
-<item>com_qyer_android_jinnang</item>
-<item>com_qyer_android_jinnangz_com_qyer_android_jinnang</item>
-<item>com_qyer_android_lastminute</item>
-<item>com_qyer_android_list</item>
-<item>com_qzone</item>
-<item>com_qzonez_com_qzone</item>
-<item>com_rakutec_android_iweekly</item>
-<item>com_rayark_cytus_full</item>
-<item>com_rayark_implosion</item>
-<item>com_rayark_pluto</item>
-<item>com_readability</item>
-<item>com_realarcade_doj</item>
-<item>com_real_realplayer</item>
-<item>com_rebeltwins_crumblezone</item>
-<item>com_rebeltwins_daddywasathief</item>
-<item>com_rebeltwins_daddywasathief2</item>
-<item>com_redatoms_games_beatmasterpad</item>
-<item>com_reliancegames_hgpanemrun</item>
-<item>com_renren_mobile_android</item>
-<item>com_renren_rrquiz</item>
-<item>com_retro64_runeraiders</item>
-<item>com_rhinocerosstory</item>
-<item>com_ricebook_activity</item>
-<item>com_ricebook_highgarden</item>
-<item>com_roamingsoft_manager</item>
-<item>com_roboo_joke</item>
-<item>com_rocket_alarmclock</item>
-<item>com_roidapp_photogrid</item>
-<item>com_rongcai_show</item>
-<item>com_rovio_angrybirds</item>
-<item>com_rovio_angrybirdsfriends</item>
-<item>com_rovio_angrybirdsgo</item>
-<item>com_rovio_angrybirdsspace_ads</item>
-<item>com_rovio_angrybirdsstarwarsii_ads</item>
-<item>com_rovio_badpiggies_wdj</item>
-<item>com_ruanmei_ithome</item>
-<item>com_ruguoapp_jike</item>
-<item>com_ruguoapp_jikez_com_ruguoapp_jike</item>
-<item>com_rumtel_fm</item>
-<item>com_rumtel_mobiletv</item>
-<item>com_runnergames_game_jewelsdeluxe_ad</item>
-<item>com_runtastic_android_heartrate_pro</item>
-<item>com_rutonystd_cubetrickfull</item>
-<item>com_rytong_airchina</item>
-<item>com_rytong_bankgdb</item>
-<item>com_rytong_bankps</item>
-<item>com_rytong_ceair</item>
-<item>com_samsung_android_app_memo</item>
-<item>com_samsung_android_email_ui</item>
-<item>com_samsung_android_video</item>
-<item>com_samsung_mdl_radio</item>
-<item>com_samsung_swift_app_kiesair</item>
-<item>com_sand_airdroid</item>
-<item>com_sankuai_hotel</item>
-<item>com_sankuai_meituan</item>
-<item>com_sankuai_meituanz_com_sankuai_meituan</item>
-<item>com_sankuai_meituan_merchant</item>
-<item>com_sankuai_meituan_takeoutnew</item>
-<item>com_sankuai_meituan_takeoutnewic_launcher</item>
-<item>com_sankuai_movie</item>
-<item>com_sanlian</item>
-<item>com_scienvo_activity</item>
-<item>com_sds_android_ttpod</item>
-<item>com_sds_android_ttpodimg_ttpod</item>
-<item>com_sdu_didi_gui</item>
-<item>com_sdu_didi_psnger</item>
-<item>com_sdu_didi_psngery_com_sdu_didi_psnger</item>
-<item>com_sdu_didi_psngerz_com_sdu_didi_psnger</item>
-<item>com_secretlisa_sleep</item>
-<item>com_secretlisa_xueba</item>
-<item>com_sec_android_app_camera</item>
-<item>com_sec_android_app_clockpackage</item>
-<item>com_sec_android_app_music</item>
-<item>com_sec_android_app_myfiles</item>
-<item>com_sec_android_app_popupcalculator</item>
-<item>com_sec_android_app_samsungapps</item>
-<item>com_sec_android_app_sbrowser</item>
-<item>com_sec_android_app_shealth</item>
-<item>com_sec_android_app_voicenote</item>
-<item>com_sec_android_gallery3d</item>
-<item>com_sec_chaton</item>
-<item>com_seed_app</item>
-<item>com_sevendosoft_tools_everydayaccount</item>
-<item>com_seventc_sneeze</item>
-<item>com_sfbest_mapp</item>
-<item>com_sfht_m</item>
-<item>com_sf_activity</item>
-<item>com_sf_activityic_launcher</item>
-<item>com_sgiggle_production</item>
-<item>com_sg_android_egglinklink_dandan</item>
-<item>com_sg_android_fish</item>
-<item>com_sg_finditfree</item>
-<item>com_sg_sledog</item>
-<item>com_shanbay_listen</item>
-<item>com_shanbay_news</item>
-<item>com_shanbay_newsz_com_shanbay_news</item>
-<item>com_shanbay_reader</item>
-<item>com_shanbay_sentence</item>
-<item>com_shanbay_words</item>
-<item>com_shane_littlecartoonist</item>
-<item>com_shazam_android</item>
-<item>com_shazam_androidicon_free</item>
-<item>com_shazam_androidz_com_shazam_android</item>
-<item>com_shere_assistivetouch</item>
-<item>com_shijiebang_android_shijiebang</item>
-<item>com_shiwan_android_lol</item>
-<item>com_shmetro</item>
-<item>com_shoujiduoduo_ringtone</item>
-<item>com_showself_ui</item>
-<item>com_shsh_shss_android</item>
-<item>com_shuqi_controller</item>
-<item>com_shuqi_controllericon</item>
-<item>com_sh_cm_busihall</item>
-<item>com_sina_news</item>
-<item>com_sina_sinablog</item>
-<item>com_sina_vdisk</item>
-<item>com_sina_vdun</item>
-<item>com_sina_videocompanion</item>
-<item>com_sina_weibo</item>
-<item>com_sina_weibolite</item>
-<item>com_sing_client</item>
-<item>com_sinovatech_unicom_ui</item>
-<item>com_sketchbookexpress</item>
-<item>com_skvalex_callrecorder</item>
-<item>com_skycarpenter_fantashooting</item>
-<item>com_skype_raider</item>
-<item>com_skype_rover</item>
-<item>com_slanissue_apps_mobile_erge</item>
-<item>com_smartdevices</item>
-<item>com_smartisan_bbs</item>
-<item>com_smartisan_clock</item>
-<item>com_smartisan_contacts</item>
-<item>com_smartisan_drivingmode</item>
-<item>com_smartisan_email</item>
-<item>com_smartisan_mms</item>
-<item>com_smartisan_mover</item>
-<item>com_smartisan_notes</item>
-<item>com_smartisan_reader</item>
-<item>com_smile_gifmaker</item>
-<item>com_smzdm_client_android</item>
-<item>com_smzdm_client_androidz_com_smzdm_client_android</item>
-<item>com_snapchat_android</item>
-<item>com_snda_cloudary</item>
-<item>com_snda_inote</item>
-<item>com_snda_mail_mobile</item>
-<item>com_snda_speech_assitant</item>
-<item>com_snda_tt</item>
-<item>com_snda_tts_service</item>
-<item>com_snda_wifilocating</item>
-<item>com_snda_youni</item>
-<item>com_socialnmobile_dictapps_notepad_color_note</item>
-<item>com_soco_growaway_wdj</item>
-<item>com_soco_veggies2_haixin</item>
-<item>com_soco_veggies2_wdj</item>
-<item>com_soft_blued</item>
-<item>com_soft_bluedicon_launcher</item>
-<item>com_sogou_activity_src</item>
-<item>com_sogou_map_android_maps</item>
-<item>com_sogou_map_android_mapsicon</item>
-<item>com_sogou_map_android_sogoubus</item>
-<item>com_sogou_novel</item>
-<item>com_sogou_wallpaper</item>
-<item>com_sohu_auto_buyauto</item>
-<item>com_sohu_auto_helper</item>
-<item>com_sohu_inputmethod_sogou</item>
-<item>com_sohu_inputmethod_sogou_past</item>
-<item>com_sohu_newsclient</item>
-<item>com_sohu_sohuvideo</item>
-<item>com_soku_videostore</item>
-<item>com_sonyericsson_album</item>
-<item>com_sonyericsson_android_camera</item>
-<item>com_sonyericsson_android_socialphonebook</item>
-<item>com_sonyericsson_conversations</item>
-<item>com_sonyericsson_extras_liveware</item>
-<item>com_sonyericsson_fmradio</item>
-<item>com_sonyericsson_music</item>
-<item>com_sonyericsson_organizer</item>
-<item>com_sonyericsson_playnowchina_android</item>
-<item>com_sonyericsson_trackid</item>
-<item>com_sonyericsson_video</item>
-<item>com_sonymobile_cta</item>
-<item>com_sonymobile_sketch</item>
-<item>com_sony_playmemories_mobile</item>
-<item>com_sony_store_china</item>
-<item>com_soufun</item>
-<item>com_soufun_app</item>
-<item>com_soufun_fang</item>
-<item>com_soundcloud_android</item>
-<item>com_soundcloud_androids</item>
-<item>com_speedsoftware_rootexplorer</item>
-<item>com_splashtop_remote</item>
-<item>com_sponia_ycq</item>
-<item>com_spotify_mobile_android_ui</item>
-<item>com_spotify_music</item>
-<item>com_spotify_musicz_com_spotify_music</item>
-<item>com_spryfox_tripletown</item>
-<item>com_sqt001_ipcall</item>
-<item>com_sskj_flashlight</item>
-<item>com_sspai_client</item>
-<item>com_sspai_dkjt</item>
-<item>com_ss_android_article_news</item>
-<item>com_ss_android_article_video</item>
-<item>com_ss_android_essay_joke</item>
-<item>com_ss_android_ugc_aweme</item>
-<item>com_ss_android_ugc_live</item>
-<item>com_starbucks_cn</item>
-<item>com_starbucks_cnz_com_starbucks_cn</item>
-<item>com_star_talk_startalk</item>
-<item>com_storm_smart</item>
-<item>com_storm_smart_libso_v6a</item>
-<item>com_stubhub</item>
-<item>com_studioirregular_pop</item>
-<item>com_studioonmars_csportable</item>
-<item>com_subatomicstudios</item>
-<item>com_subatomicstudios_fieldrunners2</item>
-<item>com_suning_market</item>
-<item>com_suning_mobile_ebuy</item>
-<item>com_suning_mobile_ebuyicon</item>
-<item>com_supercell_boombeach</item>
-<item>com_supercell_boombeach_uc</item>
-<item>com_supercell_clashofclans</item>
-<item>com_supercell_clashofclans_uc</item>
-<item>com_supercell_clashofclans_wdj</item>
-<item>com_supercell_hayday</item>
-<item>com_suzsoft_watsons_android</item>
-<item>com_swype_android_inputmethod</item>
-<item>com_sxy_ui</item>
-<item>com_sxy_uiicon</item>
-<item>com_syntellia_fleksy_kb</item>
-<item>com_sythealth_fitness</item>
-<item>com_szzc</item>
-<item>com_szzc_ucar_pilot</item>
-<item>com_tadu_android</item>
-<item>com_taguage_whatson_easymindmap</item>
-<item>com_talicai_timiclient</item>
-<item>com_talicai_timiclienticon</item>
-<item>com_tal_kaoyan</item>
-<item>com_taobao_appcenter</item>
-<item>com_taobao_caipiao</item>
-<item>com_taobao_etao</item>
-<item>com_taobao_fleamarket</item>
-<item>com_taobao_idlefish</item>
-<item>com_taobao_ju_android</item>
-<item>com_taobao_mobile_dipei</item>
-<item>com_taobao_mobile_dipeiic_launcher</item>
-<item>com_taobao_movie_android</item>
-<item>com_taobao_qianniu</item>
-<item>com_taobao_reader</item>
-<item>com_taobao_taoban</item>
-<item>com_taobao_taobao</item>
-<item>com_taobao_trip</item>
-<item>com_taobao_tripicon</item>
-<item>com_taou_avatar</item>
-<item>com_taou_maimai</item>
-<item>com_taptap</item>
-<item>com_target_ui</item>
-<item>com_tawkon</item>
-<item>com_tc_cm</item>
-<item>com_tc_tt_activity</item>
-<item>com_teambition_teambition</item>
-<item>com_teayelp_whereareyou</item>
-<item>com_technode_yiwen</item>
-<item>com_ted_android</item>
-<item>com_teewoo_app_bus</item>
-<item>com_telenav_doudouyou_android_autonavi</item>
-<item>com_tellswell_lecigou</item>
-<item>com_tencent_androidqqmail</item>
-<item>com_tencent_androidqqmailz_com_tencent_androidqqmail</item>
-<item>com_tencent_androidqqmail_past</item>
-<item>com_tencent_android_qqdownloader</item>
-<item>com_tencent_edu</item>
-<item>com_tencent_feiji</item>
-<item>com_tencent_filemanager</item>
-<item>com_tencent_game_rhythmmaster</item>
-<item>com_tencent_game_ssgame</item>
-<item>com_tencent_karaoke</item>
-<item>com_tencent_king_candycrushsaga</item>
-<item>com_tencent_lian</item>
-<item>com_tencent_lightalk</item>
-<item>com_tencent_loverzone</item>
-<item>com_tencent_map</item>
-<item>com_tencent_mm</item>
-<item>com_tencent_mmicon</item>
-<item>com_tencent_mobileqq</item>
-<item>com_tencent_mobileqqi</item>
-<item>com_tencent_mobileqqz_com_tencent_mobileqq</item>
-<item>com_tencent_mobileqq_icon_720p_past</item>
-<item>com_tencent_movieticket</item>
-<item>com_tencent_movieticketz_com_tencent_movieticket</item>
-<item>com_tencent_mtt</item>
-<item>com_tencent_mttz_com_tencent_mtt</item>
-<item>com_tencent_navsns</item>
-<item>com_tencent_nbagametime</item>
-<item>com_tencent_news</item>
-<item>com_tencent_newsz_com_tencent_news</item>
-<item>com_tencent_nmrq</item>
-<item>com_tencent_pao</item>
-<item>com_tencent_pb</item>
-<item>com_tencent_peng</item>
-<item>com_tencent_pengyou</item>
-<item>com_tencent_portfolio</item>
-<item>com_tencent_powermanager</item>
-<item>com_tencent_qpaint</item>
-<item>com_tencent_qqbus</item>
-<item>com_tencent_qqcamera</item>
-<item>com_tencent_qqgame</item>
-<item>com_tencent_qqgame_xq</item>
-<item>com_tencent_qqlite</item>
-<item>com_tencent_qqlitez_com_tencent_qqlite</item>
-<item>com_tencent_qqlive</item>
-<item>com_tencent_qqmusic</item>
-<item>com_tencent_qqmusicicon</item>
-<item>com_tencent_qqmusicz_com_tencent_qqmusic</item>
-<item>com_tencent_qqmusic_past</item>
-<item>com_tencent_qqphonebook</item>
-<item>com_tencent_qqpim</item>
-<item>com_tencent_qqpimsecure</item>
-<item>com_tencent_qqpimsecureicon</item>
-<item>com_tencent_qqpimsecure_past</item>
-<item>com_tencent_qqpinyin</item>
-<item>com_tencent_qqpinyinz_com_tencent_qqpinyin</item>
-<item>com_tencent_qqsports</item>
-<item>com_tencent_qt_qtl</item>
-<item>com_tencent_qt_qtlic_launcher</item>
-<item>com_tencent_qt_sns</item>
-<item>com_tencent_radio</item>
-<item>com_tencent_radioz_com_tencent_radio</item>
-<item>com_tencent_reading</item>
-<item>com_tencent_research_drop</item>
-<item>com_tencent_tim</item>
-<item>com_tencent_tmgp_sgame</item>
-<item>com_tencent_tmgp_speedmobile</item>
-<item>com_tencent_token</item>
-<item>com_tencent_tokenz_com_tencent_token</item>
-<item>com_tencent_transfer</item>
-<item>com_tencent_ttpic</item>
-<item>com_tencent_ttpicz_com_tencent_ttpic</item>
-<item>com_tencent_wblog</item>
-<item>com_tencent_wefire</item>
-<item>com_tencent_weishi</item>
-<item>com_tencent_wework</item>
-<item>com_tencent_zebra</item>
-<item>com_tengchong_juhuiwan</item>
-<item>com_tenpay_android</item>
-<item>com_tenthbit_juliet</item>
-<item>com_textra</item>
-<item>com_tf_thinkdroid_samsung</item>
-<item>com_thankcreate_normaladventure</item>
-<item>com_thankcreate_strangeadventure</item>
-<item>com_thefancy</item>
-<item>com_theotino_chinadaily</item>
-<item>com_thestore_main</item>
-<item>com_thinkernote_thinkernote</item>
-<item>com_thirdframestudios_android_expensoor</item>
-<item>com_threebanana_notes</item>
-<item>com_thundersoft_hz_selfportrait</item>
-<item>com_tianming</item>
-<item>com_tiantianmini_android_browser</item>
-<item>com_tiantonglaw_readlaw</item>
-<item>com_ticktick_task</item>
-<item>com_tiexue_ms</item>
-<item>com_tieyou_train_ark</item>
-<item>com_tigerknows</item>
-<item>com_ting_mp3_android</item>
-<item>com_ting_mp3_android_past</item>
-<item>com_ting_mp3_qianqian_android</item>
-<item>com_tinymission_dailyabworkoutfree1</item>
-<item>com_tmall_wireless</item>
-<item>com_tocaboca_hairsalon2</item>
-<item>com_todoist</item>
-<item>com_togic_livevideo</item>
-<item>com_tongbanjie_android</item>
-<item>com_tongcheng_android</item>
-<item>com_tophotapp_tinyrunner</item>
-<item>com_tortoisekungfu_shoudiantong</item>
-<item>com_towords</item>
-<item>com_tratao_xcurrency</item>
-<item>com_trello</item>
-<item>com_trinitigame_android_kungfuwarrior</item>
-<item>com_tripadvisor_tripadvisor_daodao</item>
-<item>com_trivago</item>
-<item>com_ts_zys</item>
-<item>com_ttpodfm_android</item>
-<item>com_ttxg_fruitday</item>
-<item>com_ttyongche</item>
-<item>com_ttzgame_pond</item>
-<item>com_ttzgame_puzzle</item>
-<item>com_tuan800_android</item>
-<item>com_tuan800_tao800</item>
-<item>com_tudou_android</item>
-<item>com_tudou_androidz_com_tudou_android</item>
-<item>com_tuicool_activity</item>
-<item>com_tujia_hotel</item>
-<item>com_tulipsport_run</item>
-<item>com_tumblr</item>
-<item>com_tuniu_app_ui</item>
-<item>com_tuniu_app_uiz_com_tuniu_app_ui</item>
-<item>com_twentyfirstcbh_radio</item>
-<item>com_twentyfivesquares_press</item>
-<item>com_twitter_android</item>
-<item>com_twoba_taoke</item>
-<item>com_twodboy_worldofgoofull</item>
-<item>com_u17_comic_phone</item>
-<item>com_ua_record</item>
-<item>com_ubercab</item>
-<item>com_ub_main</item>
-<item>com_ucamera_ucam</item>
-<item>com_ucmobile</item>
-<item>com_ucmobile_intl</item>
-<item>com_ucmobile_past</item>
-<item>com_uc_browser_en</item>
-<item>com_umetrip_android_msky</item>
-<item>com_umetrip_android_msky_app</item>
-<item>com_umonistudio_asia_tile</item>
-<item>com_umonistudio_tile</item>
-<item>com_underwood_calendar</item>
-<item>com_unionpay_chsp</item>
-<item>com_uniqlo_wakeup</item>
-<item>com_unnoo_quan</item>
-<item>com_updrv_lifecalendar</item>
-<item>com_usatoday_android_news</item>
-<item>com_ushaqi_zhuishushenqi</item>
-<item>com_ustwo_monumentvalleyzz</item>
-<item>com_ustwo_pause</item>
-<item>com_uu</item>
-<item>com_uu_uueeye</item>
-<item>com_uu_uunavi</item>
-<item>com_valvesoftware_android_steam_community</item>
-<item>com_vancl_activity</item>
-<item>com_veewo_get10</item>
-<item>com_vee_beautaa</item>
-<item>com_vee_beauty</item>
-<item>com_verge_android</item>
-<item>com_vevo</item>
-<item>com_viber_voip</item>
-<item>com_vimeo_android_videoapp</item>
-<item>com_virsir_android_atrain</item>
-<item>com_visionobjects_calculator</item>
-<item>com_visionobjects_calculator_past</item>
-<item>com_vlambeer_ridiculousfishing_humble</item>
-<item>com_vmall_client</item>
-<item>com_vodone_caibo</item>
-<item>com_voice360_main</item>
-<item>com_voice_assistant_main</item>
-<item>com_vsco_cam</item>
-<item>com_vsco_camz_com_vsco_cam</item>
-<item>com_vyclone_angles</item>
-<item>com_wacai365</item>
-<item>com_wacom_bamboopapertab</item>
-<item>com_wallstreetcn_news</item>
-<item>com_wandafilm</item>
-<item>com_wandafilm_app</item>
-<item>com_wandoujia</item>
-<item>com_wandoujia_eyepetizer</item>
-<item>com_wandoujia_phoenix2</item>
-<item>com_wangai_petcrash_wdj</item>
-<item>com_wangyin_payment</item>
-<item>com_wanmei_mini_condor_wdj</item>
-<item>com_wantu_activity</item>
-<item>com_wap3_toolbox_uninstall</item>
-<item>com_washingtonpost_android</item>
-<item>com_waze</item>
-<item>com_wealoha_social</item>
-<item>com_weather_weather</item>
-<item>com_webprancer_google_garfieldsdiner</item>
-<item>com_weheartit</item>
-<item>com_weibo_freshcity</item>
-<item>com_weico_international</item>
-<item>com_weico_plus</item>
-<item>com_weico_sinaweibo</item>
-<item>com_welove520_welove</item>
-<item>com_wenba_bangbang</item>
-<item>com_wengu</item>
-<item>com_westriversw_rws</item>
-<item>com_whatsapp</item>
-<item>com_when_coco</item>
-<item>com_when_wannianli</item>
-<item>com_wlanplus_chang</item>
-<item>com_wm_dmall</item>
-<item>com_wochacha</item>
-<item>com_wochacha_android_enigmacode</item>
-<item>com_wokamon_android</item>
-<item>com_wondertek_paper</item>
-<item>com_worktile</item>
-<item>com_wowenwen_yy</item>
-<item>com_wowotuan</item>
-<item>com_wowsai_crafter4android</item>
-<item>com_wpd_game_popstar</item>
-<item>com_wsandroid_suite</item>
-<item>com_wuba</item>
-<item>com_wubawb_app_icon</item>
-<item>com_wuba_jiazheng</item>
-<item>com_wuba_zhuanzhuan</item>
-<item>com_wukongtv_wkremote_client</item>
-<item>com_wumii_android</item>
-<item>com_wumii_android_mimi</item>
-<item>com_wunderkinder_wunderlistandroid</item>
-<item>com_wzm_moviepic</item>
-<item>com_xcar_activity</item>
-<item>com_xdf_recite</item>
-<item>com_xfplay_play</item>
-<item>com_xiachufang</item>
-<item>com_xiangqu_app</item>
-<item>com_xianguo_pad</item>
-<item>com_xiaoenai</item>
-<item>com_xiaoenai_app</item>
-<item>com_xiaoji_emulator</item>
-<item>com_xiaomi_account</item>
-<item>com_xiaomi_channel</item>
-<item>com_xiaomi_gamecenter</item>
-<item>com_xiaomi_hm_health</item>
-<item>com_xiaomi_jr</item>
-<item>com_xiaomi_market</item>
-<item>com_xiaomi_o2o</item>
-<item>com_xiaomi_router</item>
-<item>com_xiaomi_routeric_launcher</item>
-<item>com_xiaomi_shop</item>
-<item>com_xiaomi_smarthome</item>
-<item>com_xiaomi_smarthomez_com_xiaomi_smarthome</item>
-<item>com_xiaozhu_xzdz</item>
-<item>com_ximalaya_ting_android</item>
-<item>com_ximalaya_ting_androidic_launcher</item>
-<item>com_xingin_xhs</item>
-<item>com_xingin_xhsz_com_xingin_xhs</item>
-<item>com_xingjiabi_shengsheng</item>
-<item>com_xinli_fm</item>
-<item>com_xinmei365_font</item>
-<item>com_xisue_zhoumo</item>
-<item>com_xiyili_youjia</item>
-<item>com_xmedia_chickenrun</item>
-<item>com_xone_xoneclock</item>
-<item>com_xtuone_android_syllabus</item>
-<item>com_xueqiu_android</item>
-<item>com_xunlei_cloud</item>
-<item>com_xunlei_downloadprovider</item>
-<item>com_xunlei_downloadproviderz_com_xunlei_downloadprovider</item>
-<item>com_xunlei_kankan</item>
-<item>com_xunlei_share</item>
-<item>com_yahoo_mobile_client_android_atom</item>
-<item>com_yahoo_mobile_client_android_flickr</item>
-<item>com_yahoo_mobile_client_android_im</item>
-<item>com_yahoo_mobile_client_android_mail</item>
-<item>com_yahoo_mobile_client_android_screen</item>
-<item>com_yahoo_mobile_client_android_weather</item>
-<item>com_yaloe8135</item>
-<item>com_yek_android_kfc_activitys</item>
-<item>com_yek_android_uniqlo</item>
-<item>com_yek_lafaso</item>
-<item>com_yelong_jiuzhengzhinnan</item>
-<item>com_yelong_rom_activities</item>
-<item>com_yelp_android</item>
-<item>com_ygkj_chelaile_standard</item>
-<item>com_yibasan_lizhifm</item>
-<item>com_yiche_autoeasy</item>
-<item>com_yiche_price</item>
-<item>com_yidian_history</item>
-<item>com_yidian_xiaomi</item>
-<item>com_yinhan_hunter_uc</item>
-<item>com_yinhan_hunter_wandoujia</item>
-<item>com_yinhan_shenmo_wdj</item>
-<item>com_yinyuetai_ui</item>
-<item>com_yinyuetai_uiz_com_yinyuetai_ui</item>
-<item>com_yipiao</item>
-<item>com_yitong_mbank_psbc</item>
-<item>com_yiwang</item>
-<item>com_yixia_videoeditor</item>
-<item>com_yixia_xiaokaxiu</item>
-<item>com_ylmf_androidclient</item>
-<item>com_ylpw_ticketapp</item>
-<item>com_ymall_presentshop</item>
-<item>com_ymatou_shop</item>
-<item>com_yodo1_ctr2_wandoujia_01</item>
-<item>com_yodo1_sd009_megajump</item>
-<item>com_yoho</item>
-<item>com_yohoz_com_yoho</item>
-<item>com_yoho_past</item>
-<item>com_yoloho_dayima</item>
-<item>com_yoloho_dayimalite</item>
-<item>com_yongche_android</item>
-<item>com_yongche_androidic_launcher_business</item>
-<item>com_yongtai_o2bra</item>
-<item>com_yongyao</item>
-<item>com_yooiistudios_morningkit</item>
-<item>com_youai_dreamonepiece_platform_wandoujia</item>
-<item>com_youba_fileexplorer</item>
-<item>com_youba_flashlight</item>
-<item>com_youba_ringtones</item>
-<item>com_youdao_bigbang</item>
-<item>com_youdao_calculator</item>
-<item>com_youdao_dict</item>
-<item>com_youdao_hanyu</item>
-<item>com_youdao_huihui_deals</item>
-<item>com_youdao_note</item>
-<item>com_youdao_sw</item>
-<item>com_youdao_translator</item>
-<item>com_yougou</item>
-<item>com_youku_paike</item>
-<item>com_youku_phone</item>
-<item>com_youku_phonez_com_youku_phone</item>
-<item>com_youloft_calendar</item>
-<item>com_youlu</item>
-<item>com_yourdream_app_android</item>
-<item>com_youyuan_yhb</item>
-<item>com_youyuan_yyhl</item>
-<item>com_yplanapp</item>
-<item>com_yto_client_activity</item>
-<item>com_yto_client_activity_past</item>
-<item>com_yuantiku_tutor</item>
-<item>com_yuedong_sport</item>
-<item>com_yufm_deepspace</item>
-<item>com_yum_mos</item>
-<item>com_yundiankj_archcollege</item>
-<item>com_yunfan_topvideo</item>
-<item>com_yunlian_wewe</item>
-<item>com_yunyaoinc_mocha</item>
-<item>com_yunyou_youxihezi</item>
-<item>com_yuwei_android</item>
-<item>com_ywqc_show</item>
-<item>com_yx</item>
-<item>com_yybackup</item>
-<item>com_yyets_zimuzu</item>
-<item>com_yy_android_sportbrush</item>
-<item>com_yy_pomodoro</item>
-<item>com_yy_yymeet</item>
-<item>com_zappos_android</item>
-<item>com_zcbl_bjjj_driving</item>
-<item>com_zch_safelottery</item>
-<item>com_zcool_community</item>
-<item>com_zdworks_android_zdcalendar</item>
-<item>com_zdworks_android_zdclock</item>
-<item>com_zeon_gaaiho_reader</item>
-<item>com_zeptolab_ctr_hd_google_paid</item>
-<item>com_zeptolab_monsters_free_china_gamebase</item>
-<item>com_zeptolab_timetravel_free_google</item>
-<item>com_zhangdan</item>
-<item>com_zhangdan_app</item>
-<item>com_zhan_dui_animetaste</item>
-<item>com_zhan_dui_evermemo</item>
-<item>com_zhan_dui_evermemo_past</item>
-<item>com_zhaopin_social</item>
-<item>com_zhaopin_socialz_com_zhaopin_social</item>
-<item>com_zhenai_android</item>
-<item>com_zhenqian_camerarulercn</item>
-<item>com_zhihu_android</item>
-<item>com_zhihu_android_past</item>
-<item>com_zhihu_circlely_android</item>
-<item>com_zhihu_daily_android</item>
-<item>com_zhihu_daily_android_past</item>
-<item>com_zhimahu</item>
-<item>com_zhongduomei_rrmj_society</item>
-<item>com_zhubajie_client</item>
-<item>com_ziipin_homeinn</item>
-<item>com_zinio_mobile_android_reader</item>
-<item>com_ziroom_ziroomcustomer</item>
-<item>com_zite</item>
-<item>com_zol_android</item>
-<item>com_zqgame_mbm</item>
-<item>com_zst_flight</item>
-<item>com_zte_backup_mmi</item>
-<item>com_zuimeia_suite_magiclocker</item>
-<item>com_zuimeiso</item>
-<item>com_zuzuche_wz_bj</item>
-<item>com_zuzuche_wz_gd</item>
-<item>com_zuzuche_wz_sc</item>
-<item>com_zuzuche_wz_sh</item>
-<item>com_zynga_fatpebble_clayjam</item>
-<item>com_zynga_looney</item>
-<item>com_zzenglish_client</item>
-<item>co_runner_app</item>
-<item>co_vine_android</item>
-<item>createxengine_launcher_wandoujia</item>
-<item>ctrip_android_view</item>
-<item>ctrip_android_view_past</item>
-<item>cz_rosada_st</item>
-<item>de_ifdesign_awards</item>
-<item>de_stocard_stocard</item>
-<item>dji_pilot</item>
-<item>doit_im</item>
-<item>dopool_player</item>
-<item>excel_sgs</item>
-<item>facebook</item>
-<item>file_manager</item>
-<item>flipboard_cn</item>
-<item>fm_jiecao_xvideo</item>
-<item>fm_jihua_kecheng</item>
-<item>fm_lvxing_tejia</item>
-<item>fm_qingting_qtradio</item>
-<item>fm_wawa_mg</item>
-<item>fm_xiami_bmamba</item>
-<item>fm_xiami_main</item>
-<item>fm_xiami_mainz_fm_xiami_main</item>
-<item>fm_yue_android</item>
-<item>fq_router2</item>
-<item>gallery</item>
-<item>game_center</item>
-<item>geone_pingpong</item>
-<item>handinhand</item>
-<item>handshaker</item>
-<item>home_image</item>
-<item>hugh_android_app_chengyu</item>
-<item>hugh_android_app_hanyu</item>
-<item>hugh_android_app_zidian</item>
-<item>ic_app_default</item>
-<item>ic_splash_screen</item>
-<item>im_doit_pro</item>
-<item>im_doit_pro_v4</item>
-<item>im_xingzhe</item>
-<item>im_yixin</item>
-<item>info_rguide_bjmtr</item>
-<item>info_rguide_gzmtr</item>
-<item>info_zzcs_game_mslug2</item>
-<item>internetradio_all</item>
-<item>in_huohua_yuki</item>
-<item>io_egg_jiantu</item>
-<item>io_hoverstud_readysteadyplay</item>
-<item>it_medieval_blueftp</item>
-<item>it_repix_android</item>
-<item>jb_activity_mbook</item>
-<item>jianshu_io</item>
-<item>jp_naver_linebrush_android</item>
-<item>jp_naver_linecamera_android</item>
-<item>jp_naver_linecamera_androidz_jp_naver_linecamera_android</item>
-<item>jp_naver_linecard_android</item>
-<item>jp_naver_lineplay_android</item>
-<item>jp_naver_linetools</item>
-<item>jp_naver_line_android</item>
-<item>jp_naver_sjlgbubble</item>
-<item>jp_naver_sjlgpp</item>
-<item>jp_naver_sjlgwr</item>
-<item>jp_naver_sjlinepang</item>
-<item>jp_pxv_android</item>
-<item>jp_r246_twicca</item>
-<item>jyeoo_app_ystudy</item>
-<item>kik_android</item>
-<item>klb_android_lovelive</item>
-<item>klb_android_lovelivecn</item>
-<item>klb_android_loveliveu</item>
-<item>klb_android_lovelivev</item>
-<item>klb_android_lovelivew</item>
-<item>klb_android_lovelivex</item>
-<item>klb_android_lovelivey</item>
-<item>klb_android_lovelivez_klb_android_lovelive</item>
-<item>kr_co_vcnc_android_couple</item>
-<item>longbin_cal</item>
-<item>longbin_helloworld</item>
-<item>ly_pp_justpiano</item>
-<item>mail</item>
-<item>market</item>
-<item>masraim_webview_expedia</item>
-<item>maxcrush</item>
-<item>messages</item>
-<item>me_abitno_vplayer_t</item>
-<item>me_chunyu_chunyudoctor</item>
-<item>me_chunyu_pedometer</item>
-<item>me_drakeet_puremosaic</item>
-<item>me_drakeet_seashell</item>
-<item>me_ele</item>
-<item>me_imid_fuubo</item>
-<item>me_iweek_rili</item>
-<item>me_kiip_skeemo</item>
-<item>me_papa</item>
-<item>me_papaz_me_papa</item>
-<item>me_peiwo_peiwo</item>
-<item>me_shumei_oks</item>
-<item>me_tangke_gamecores</item>
-<item>me_topit_topandroid2</item>
-<item>me_xieba_poems_app</item>
-<item>mobile_com_cn_ui</item>
-<item>mobi_infolife_ezweather</item>
-<item>mobi_jackd_android</item>
-<item>msra_renlifang_q20</item>
-<item>music</item>
-<item>my_beautycamera</item>
-<item>my_beautycameraicon</item>
-<item>my_pcamera</item>
-<item>navigation_view_header</item>
-<item>net_comikon_reader</item>
-<item>net_coollet_infzmreader</item>
-<item>net_daum_android_solcalendar</item>
-<item>net_daum_android_solmail</item>
-<item>net_dinglisch_android_taskerm</item>
-<item>net_greenmon_flava</item>
-<item>net_hidroid_hiapn_cn</item>
-<item>net_hidroid_hisurfing</item>
-<item>net_hidroid_hitask</item>
-<item>net_iaround</item>
-<item>net_iasolution_games_kysp2_zhtw_googleplay_paid</item>
-<item>net_luoo_facefm</item>
-<item>net_luoo_luoofm</item>
-<item>net_mobileprince_cc</item>
-<item>net_mountainsheep_minigore2</item>
-<item>net_muji_sleep_mujitosleep</item>
-<item>net_qihoo_launcher_widget_clockweather</item>
-<item>net_ticktocklab_stairs</item>
-<item>net_zedge_android</item>
-<item>nfpeople_phone_com_mediapad</item>
-<item>notes</item>
-<item>nutstore_android</item>
-<item>oms_mspaces</item>
-<item>one_hh_oneclient</item>
-<item>one_step</item>
-<item>org_cocos2dx_fishgame</item>
-<item>org_cocos2dx_fishingjoy2</item>
-<item>org_cocos2dx_kickbug</item>
-<item>org_cocos2d_fishingjoy3</item>
-<item>org_coursera_android</item>
-<item>org_dayup_gnotes</item>
-<item>org_dayup_gtask</item>
-<item>org_fungo_fungolive</item>
-<item>org_funship_findsomething_channel_91</item>
-<item>org_idaxiang_android</item>
-<item>org_idaxiang_app</item>
-<item>org_kman_wifimanager</item>
-<item>org_mariotaku_twidere</item>
-<item>org_moncter_runner</item>
-<item>org_mozilla_firefox</item>
-<item>org_orangenose_games</item>
-<item>org_qii_weiciyuan</item>
-<item>org_telegram_messenger</item>
-<item>org_videolan_vlc</item>
-<item>org_wen_taskman</item>
-<item>org_wikipedia</item>
-<item>org_youhu_baishitong</item>
-<item>org_zhiboba_sports</item>
-<item>org_zwanoo_android_speedtest</item>
-<item>os_xiehou360_im_mei</item>
-<item>phone</item>
-<item>phone_manager</item>
-<item>pinkdiary_xiaoxiaotu_com</item>
-<item>pinterest</item>
-<item>pixlr_omatic</item>
-<item>pj_ishuaji</item>
-<item>pj_romshop</item>
-<item>pl_idreams_jellydefense</item>
-<item>pl_idreams_pottery</item>
-<item>ppsspp</item>
-<item>qmax_game_ponpon1</item>
-<item>qsbk</item>
-<item>qsbk_app</item>
-<item>radiotime_player</item>
-<item>recorder</item>
-<item>ru_org_amip_clocksync</item>
-<item>sara</item>
-<item>secret_app</item>
-<item>settings</item>
-<item>se_illusionlabs_labyrinth_full</item>
-<item>se_perigee_android_seven</item>
-<item>shansong</item>
-<item>shoujileyuan_i_love_you</item>
-<item>shuailai_yongche</item>
-<item>sh_lilith_dgame_lemon</item>
-<item>sh_lilith_dgame_uc</item>
-<item>sina_mobile_tianqitong</item>
-<item>skype</item>
-<item>smartisan_screen_recording</item>
-<item>smiling_cloud</item>
-<item>smskb_com</item>
-<item>snapchat</item>
-<item>sogou_mobile_explorer</item>
-<item>so_ofo_labofo</item>
-<item>sunlogin_remote_control</item>
-<item>tc_tangcha_book</item>
-<item>tencent_file</item>
-<item>tiger_unfamous</item>
-<item>tool_english_study_tool</item>
-<item>tunein_player</item>
-<item>tutorials</item>
-<item>tv_acfundanmaku_video</item>
-<item>tv_acfundanmaku_videotv_acfundanmaku_video</item>
-<item>tv_danmaku_bili</item>
-<item>tv_danmaku_biliz_tv_danmaku_bili</item>
-<item>tv_pps_mobile</item>
-<item>tv_xiaoka_live</item>
-<item>twitter</item>
-<item>tw_chaozhuyin</item>
-<item>uc_ucdl</item>
-<item>uk_co_bigheadgames_snooker</item>
-<item>uk_co_neilandtheresa_newvignette</item>
-<item>uk_co_neilandtheresa_vignettenewdemo</item>
-<item>uk_co_nickfines_realcalc</item>
-<item>uni_jdxt_app</item>
-<item>unofficial_smartisan_iconpack</item>
-<item>us_pinguo_idcamera</item>
-<item>us_pinguo_selfie</item>
-<item>viber</item>
-<item>video_vue_android</item>
-<item>vidon_me_phone</item>
-<item>vivame_reader</item>
-<item>viva_reader</item>
-<item>vmovier_com_activity</item>
-<item>vo_threes_exclaim</item>
-<item>vstudio_android_camera360</item>
-<item>vz_com</item>
-<item>wangdaye_com_geometricweather</item>
-<item>weather</item>
-<item>wenhr_mcdonalds</item>
-<item>wikipedia</item>
-<item>wind_android</item>
-<item>wind_deposit</item>
-<item>wlm_com_mm_ui</item>
-<item>ww_navycsu_mogo_tianya</item>
-<item>xcxin_filexpert</item>
-<item>youcan_reader</item>
-<item>yoyo_vilo_im</item>
-<item>zsj_android_uninstall</item>
-<item>zz_dela_cmcc_traffic</item>
+        <item>a_camera</item>
+        <item>a_camera10</item>
+        <item>a_camera11</item>
+        <item>a_camera12</item>
+        <item>a_camera2</item>
+        <item>a_camera3</item>
+        <item>a_camera4</item>
+        <item>a_camera5</item>
+        <item>a_camera6</item>
+        <item>a_camera7</item>
+        <item>a_camera8</item>
+        <item>a_camera9</item>
+        <item>a_clock</item>
+        <item>a_clock2</item>
+        <item>a_clock3</item>
+        <item>a_clock4</item>
+        <item>a_clock5</item>
+        <item>a_clock6</item>
+        <item>a_clock7</item>
+        <item>a_clock8</item>
+        <item>a_clock9</item>
+        <item>a_contacts</item>
+        <item>a_contacts2</item>
+        <item>a_contacts3</item>
+        <item>a_contacts4</item>
+        <item>a_gallery</item>
+        <item>a_gallery2</item>
+        <item>a_gallery3</item>
+        <item>a_gallery4</item>
+        <item>a_gallery5</item>
+        <item>a_gallery6</item>
+        <item>a_gallery7</item>
+        <item>a_gallery8</item>
+        <item>a_phone</item>
+        <item>a_phone2</item>
+        <item>a_phone3</item>
+        <item>a_phone4</item>
+        <item>a_phone5</item>
+        <item>a_settings</item>
+        <item>a_settings2</item>
+        <item>a_settings3</item>
+        <item>a_sms</item>
+        <item>a_sms2</item>
+        <item>a_sms3</item>
+        <item>a_sms4</item>
+        <item>a_sms5</item>
+        <item>a_sms6</item>
+        <item>a_weather</item>
+        <item>a_weather10</item>
+        <item>a_weather11</item>
+        <item>a_weather2</item>
+        <item>a_weather3</item>
+        <item>a_weather4</item>
+        <item>a_weather5</item>
+        <item>a_weather6</item>
+        <item>a_weather7</item>
+        <item>a_weather8</item>
+        <item>a_weather9</item>
+        <item>b_calculator</item>
+        <item>b_calculator2</item>
+        <item>b_calculator3</item>
+        <item>b_calculator4</item>
+        <item>b_calculator5</item>
+        <item>b_calculator6</item>
+        <item>b_calculator7</item>
+        <item>b_calendar</item>
+        <item>b_calendar2</item>
+        <item>b_calendar3</item>
+        <item>b_calendar4</item>
+        <item>b_download</item>
+        <item>b_download2</item>
+        <item>b_download3</item>
+        <item>b_download4</item>
+        <item>b_download5</item>
+        <item>b_download6</item>
+        <item>b_download7</item>
+        <item>b_file</item>
+        <item>b_file2</item>
+        <item>b_file3</item>
+        <item>b_file4</item>
+        <item>b_firefox</item>
+        <item>b_firefox2</item>
+        <item>b_firefox3</item>
+        <item>b_firefox4</item>
+        <item>b_firefox5</item>
+        <item>b_firefox6</item>
+        <item>b_firefox7</item>
+        <item>b_firefox8</item>
+        <item>b_mail</item>
+        <item>b_mail2</item>
+        <item>b_mail3</item>
+        <item>b_mail4</item>
+        <item>b_mail5</item>
+        <item>b_mail6</item>
+        <item>b_mail7</item>
+        <item>b_map</item>
+        <item>b_map2</item>
+        <item>b_map31</item>
+        <item>b_map4</item>
+        <item>b_map5</item>
+        <item>b_map6</item>
+        <item>b_moonreader</item>
+        <item>b_moonreader2</item>
+        <item>b_moonreader3</item>
+        <item>b_music</item>
+        <item>b_music10</item>
+        <item>b_music11</item>
+        <item>b_music12</item>
+        <item>b_music13</item>
+        <item>b_music2</item>
+        <item>b_music3</item>
+        <item>b_music4</item>
+        <item>b_music5</item>
+        <item>b_music6</item>
+        <item>b_music7</item>
+        <item>b_music8</item>
+        <item>b_music9</item>
+        <item>b_note</item>
+        <item>b_note2</item>
+        <item>b_note3</item>
+        <item>b_note4</item>
+        <item>b_note5</item>
+        <item>b_note6</item>
+        <item>b_note7</item>
+        <item>b_read</item>
+        <item>b_read2</item>
+        <item>b_read3</item>
+        <item>b_read4</item>
+        <item>b_read5</item>
+        <item>b_read6</item>
+        <item>b_read7</item>
+        <item>b_read8</item>
+        <item>b_read9</item>
+        <item>b_record</item>
+        <item>b_record2</item>
+        <item>b_record3</item>
+        <item>b_record4</item>
+        <item>b_record5</item>
+        <item>b_record6</item>
+        <item>b_record7</item>
+        <item>b_screen</item>
+        <item>b_screen2</item>
+        <item>b_screen3</item>
+        <item>b_shougou</item>
+        <item>b_tingshu</item>
+        <item>b_tingshu2</item>
+        <item>b_tingshu3</item>
+        <item>b_tingshu4</item>
+        <item>b_tingshu5</item>
+        <item>b_tingshu6</item>
+        <item>b_tingshu7</item>
+        <item>b_tingshu8</item>
+        <item>b_tts</item>
+        <item>b_tts2</item>
+        <item>b_vlc</item>
+        <item>b_vlc2</item>
+        <item>b_vlc3</item>
+        <item>b_vlc4</item>
+        <item>b_wps</item>
+        <item>b_wps2</item>
+        <item>b_zarchiver</item>
+        <item>b_zarchiver2</item>
+        <item>c_alibaba</item>
+        <item>c_alipay</item>
+        <item>c_alipay2</item>
+        <item>c_bili</item>
+        <item>c_bili2</item>
+        <item>c_bili3</item>
+        <item>c_cmb</item>
+        <item>c_coolapk</item>
+        <item>c_idlefish</item>
+        <item>c_jingdong</item>
+        <item>c_jingdong2</item>
+        <item>c_kuwo</item>
+        <item>c_kuwo2</item>
+        <item>c_litetao</item>
+        <item>c_litetao2</item>
+        <item>c_netdisk</item>
+        <item>c_netdisk2</item>
+        <item>c_netdisk3</item>
+        <item>c_news</item>
+        <item>c_news2</item>
+        <item>c_news3</item>
+        <item>c_pinduoduo</item>
+        <item>c_reddit</item>
+        <item>c_reddit2</item>
+        <item>c_reddit3</item>
+        <item>c_rss</item>
+        <item>c_rss2</item>
+        <item>c_rss3</item>
+        <item>c_rss4</item>
+        <item>c_rss5</item>
+        <item>c_store</item>
+        <item>c_store2</item>
+        <item>c_store3</item>
+        <item>c_taobao</item>
+        <item>c_taobao2</item>
+        <item>c_termux</item>
+        <item>c_termux2</item>
+        <item>c_tieba</item>
+        <item>c_tieba2</item>
+        <item>c_unicom</item>
+        <item>c_unicom2</item>
+        <item>c_unicom3</item>
+        <item>c_unicom4</item>
+        <item>c_video</item>
+        <item>c_video2</item>
+        <item>c_video3</item>
+        <item>c_video4</item>
+        <item>c_video5</item>
+        <item>c_video6</item>
+        <item>c_video7</item>
+        <item>c_video8</item>
+        <item>c_vpn</item>
+        <item>c_vpn2</item>
+        <item>c_vpn3</item>
+        <item>c_vpn4</item>
+        <item>c_wechat</item>
+        <item>c_wechat2</item>
+        <item>c_weread</item>
+        <item>c_youtube</item>
+        <item>c_youtube2</item>
+        <item>c_youtube3</item>
+        <item>c_zhihu</item>
+        <item>c_zhihu2</item>
+        <item>c_zhihu3</item>
+        <item>d_12306</item>
+        <item>d_ad</item>
+        <item>d_ad2</item>
+        <item>d_ad3</item>
+        <item>d_backup</item>
+        <item>d_backup2</item>
+        <item>d_backup3</item>
+        <item>d_backup4</item>
+        <item>d_backup5</item>
+        <item>d_backup6</item>
+        <item>d_backup7</item>
+        <item>d_fenbi</item>
+        <item>d_httpcanary</item>
+        <item>d_httpcanary2</item>
+        <item>d_jd22</item>
+        <item>d_keep</item>
+        <item>d_mymedinfo</item>
+        <item>d_net</item>
+        <item>d_net3</item>
+        <item>d_netd_net2</item>
+        <item>d_net4</item>
+        <item>d_tiktok</item>
+        <item>d_tiktok2</item>
+        <item>d_weibo</item>
+        <item>d_wopay</item>
+
+        <item>system_music</item>
+        <item>system_notes</item>
+        <item>system_phone</item>
+        <item>system_settings</item>
+        <item>calendar</item>
+        <item>nano_icon_pack</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
-    <string-array name="icon_labels">
-    </string-array>
+    <string-array name="icon_labels"></string-array>
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
-    <string-array name="latest_icons" translatable="false">
-    </string-array>
+    <string-array name="latest_icons" translatable="false"></string-array>
 </resources>
