@@ -255,6 +255,15 @@
     <item drawable="d_tiktok2" />
     <item drawable="d_weibo" />
     <item drawable="d_wopay" />
+    <item drawable="d_launcher" />
+    <item drawable="d_launcher2" />
+    <item drawable="d_launcher3" />
+    <item drawable="d_launcher4" />
+    <item drawable="d_launcher5" />
+    <item drawable="d_smarttan" />
+    <item drawable="d_tisan" />
+
+
 
     <item drawable="system_music" />
     <item drawable="system_notes" />

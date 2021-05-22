@@ -101,6 +101,9 @@
 
     <!-- "时钟（系统）" -->
     <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="a_clock"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DockClock}" drawable="a_clock"/>
+    <item component="ComponentInfo{com.oneplus.alarmclock/com.oneplus.deskclock.DeskClock}" drawable="a_clock"/>
+    <item component="ComponentInfo{com.oneplus.alarmclock/com.oneplus.deskclock.DockClock}" drawable="a_clock"/>
     <!-- a_系统-时钟Simple-5.4.0 -->
     <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black}" drawable="a_clock"/>
     <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Blue_grey}" drawable="a_clock"/>
@@ -503,14 +506,38 @@
     <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}" drawable="d_jd22"/>
     <!-- Keep-7.0.0 -->
     <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="d_keep"/>
-
-
-
     <!-- 沃钱包-4.9.6-496-21219 -->
     <item component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.MainActivity}" drawable="d_wopay"/>
+    <!-- a_NoNet-轻桌面V3,1 -->
+    <item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.Launcher}" drawable="d_launcher"/>
+    <item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.ToggleWeightWatcher}" drawable="d_launcher"/>
+    <item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher"/>
+    <item component="ComponentInfo{net.ohrz.lightlauncher2/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher2"/>
+    <item component="ComponentInfo{net.ohrz.lightlauncher3/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher3"/>
+    <item component="ComponentInfo{net.ohrz.lightlauncher4/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher4"/>
+    <item component="ComponentInfo{net.ohrz.lightlauncher5/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher5"/>
+    <!-- "图标 锤子【FolderOK 无网】.apk" -->
+    <item component="ComponentInfo{com.trance.icon.smarttan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="d_smarttan"/>
+    <!-- "TISAN图标包.apk.apk" -->
+    <item component="ComponentInfo{com.douerhao.tisan/cn.ommiao.iconpacktemplate.MainActivity}" drawable="d_tisan"/>
 
 
 
+
+
+
+
+    <!-- 系统图标区域 -->
+    <item component=":SMS" drawable="a_sms" />
+    <item component=":GALLERY" drawable="a_gallery7" />
+    <item component=":EMAIL" drawable="b_mail" />
+    <item component=":CONTACTS" drawable="a_contacts" />
+    <item component=":CLOCK" drawable="a_clock" />
+    <item component=":CAMERA" drawable="a_camera" />
+    <item component=":CALCULATOR" drawable="b_calculator7" />
+    <item component=":BROWSER" drawable="b_firefox7" />
+
+    <item component=":PHONE" drawable="system_phone" />
     <item
         component=":CALENDAR"
         drawable="calendar" />

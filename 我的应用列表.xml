@@ -503,20 +503,27 @@
 <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}" drawable="d_jd22"/>
 <!-- Keep-7.0.0 -->
 <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="d_keep"/>
-
-
-
 <!-- 沃钱包-4.9.6-496-21219 -->
 <item component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.MainActivity}" drawable="d_wopay"/>
 
+<!-- a_NoNet-轻桌面V3,1 -->
+<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.Launcher}" drawable="d_launcher"/>
+<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.ToggleWeightWatcher}" drawable="d_launcher"/>
+<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher"/>
+	<item component="ComponentInfo{net.ohrz.lightlauncher2/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher2"/>
+	<item component="ComponentInfo{net.ohrz.lightlauncher3/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher3"/>
+	<item component="ComponentInfo{net.ohrz.lightlauncher4/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher4"/>
+	<item component="ComponentInfo{net.ohrz.lightlauncher5/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="d_launcher5"/>
+<!-- "图标 锤子【FolderOK 无网】.apk" -->
+<item component="ComponentInfo{com.trance.icon.smarttan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="d_smarttan"/>
+<!-- "TISAN图标包.apk.apk" -->
+<item component="ComponentInfo{com.douerhao.tisan/cn.ommiao.iconpacktemplate.MainActivity}" drawable="d_tisan"/>
 
 
 
 
 
-
-
-<!-- 音乐标签1.2.4.1 -->
+        <!-- 音乐标签1.2.4.1 -->
 <item component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}" drawable="aaaaaa"/>
 <!-- Apktool-2.4.0 -->
 <item component="ComponentInfo{com.a4455jkjhtool/com.a4455jkjhtool.MainActivity}" drawable="aaaaaa"/>
@@ -555,10 +562,6 @@
 <item component="ComponentInfo{com.viewblocker.jrsen/com.kaisar.xposed.godmode.SettingsActivity}" drawable="aaaaaa"/>
 <!-- 无网-对话框取消-2.2.0 -->
 <item component="ComponentInfo{com.mhook.dialog/com.mhook.dialog.task.ui.AppList2}" drawable="aaaaaa"/>
-<!-- a_NoNet-轻桌面V3,1 -->
-<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.Launcher}" drawable="aaaaaa"/>  
-<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.ToggleWeightWatcher}" drawable="aaaaaa"/>  
-<item component="ComponentInfo{net.ohrz.lightlauncher/net.ohrz.lightlauncher.MemoryDumpActivity}" drawable="aaaaaa"/>  
 <!-- 新语图书馆v3.3.11 -->
 <item component="ComponentInfo{com.xyts.xinyulib/com.xyts.xinyulib.ui.MainActivity}" drawable="aaaaaa"/>
 <!-- AutoJS-debug -->
