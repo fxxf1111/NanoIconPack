@@ -523,7 +523,7 @@
 
 
 
-        <!-- 音乐标签1.2.4.1 -->
+<!-- 音乐标签1.2.4.1 -->
 <item component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}" drawable="aaaaaa"/>
 <!-- Apktool-2.4.0 -->
 <item component="ComponentInfo{com.a4455jkjhtool/com.a4455jkjhtool.MainActivity}" drawable="aaaaaa"/>
@@ -587,4 +587,101 @@
 <!-- a_自编译-无网-应用变量_ -->
 <item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.android.appenv.activitys.ActivityMain}" drawable="aaaaaa"/>
 
+
+
+
+
+
+	<!-- 系统图标区域 -->
+	<item component=":SMS" drawable="a_sms" />
+	<item component=":GALLERY" drawable="a_gallery7" />
+	<item component=":EMAIL" drawable="b_mail" />
+	<item component=":CONTACTS" drawable="a_contacts" />
+	<item component=":CLOCK" drawable="a_clock" />
+	<item component=":CAMERA" drawable="a_camera" />
+	<item component=":CALCULATOR" drawable="b_calculator7" />
+	<item component=":BROWSER" drawable="b_firefox7" />
+
+	<item component=":PHONE" drawable="system_phone" />
+	<item
+		component=":CALENDAR"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{am.sunrise.android.calendar/am.sunrise.android.calendar.ui.HomeActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}"
+		drawable="calendar" />
+	<item
+		component="ComponentInfo{com.by_syk.nanoiconpack.sample/com.by_syk.lib.nanoiconpack.MainActivity}"
+		drawable="nano_icon_pack" />
 </resources>
