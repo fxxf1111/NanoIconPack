@@ -520,6 +520,8 @@
     <item component="ComponentInfo{com.trance.icon.smarttan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="d_smarttan"/>
     <!-- "TISAN图标包.apk.apk" -->
     <item component="ComponentInfo{com.trance.icon.mytisan/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="d_tisan"/>
+    <!-- "ios图标包.apk.apk" -->
+    <item component="ComponentInfo{com.trance.icon.ios/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="nano_icon_pack"/>
 
 
 
