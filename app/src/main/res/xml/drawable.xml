@@ -2,7 +2,7 @@
 <!-- 主动替换图标展示列表 -->
 <resources>
     <version>1</version>
-    <category title="All" />
+
 
     <item drawable="a_camera" />
     <item drawable="a_camera10" />
