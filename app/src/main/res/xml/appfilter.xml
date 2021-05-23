@@ -460,8 +460,9 @@
     <item component="ComponentInfo{org.schabi.newpipe2/org.schabi.newpipe.MainActivity}" drawable="c_youtube2"/>
     <item component="ComponentInfo{org.schabi.newpipe3/org.schabi.newpipe.MainActivity}" drawable="c_youtube3"/>
     <!-- a_FDroid-termux_113 -->
-    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="c_termux"/>
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="c_termux3"/>
     <item component="ComponentInfo{com.termux2/com.termux.app.TermuxActivity}" drawable="c_termux2"/>
+    <item component="ComponentInfo{com.termux2/com.termux.app.TermuxActivity}" drawable="c_termux"/>
 
 
 
