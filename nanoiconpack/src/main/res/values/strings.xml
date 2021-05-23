@@ -17,7 +17,7 @@
 
 <resources>
 
-    <string name="app_name" translatable="false">ios</string>
+    <string name="app_name" translatable="false">Ios常用</string>
 
     <string name="activity_about">About</string>
     <string name="activity_req_stats">Request stats</string>

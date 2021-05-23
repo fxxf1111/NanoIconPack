@@ -1,6 +1,6 @@
 集成步骤：
 
-1，将图标放入：app/src/......./drawbale-nodpi
+1，将图标放入：app/src/......./drawable-nodpi
 2，app/..res/xml/appfilter.xml       <!-- 桌面启动器 自动适配用 -->
 3，app/..res/xml/drawable.xml         <!-- 主动替换图标展示列表 -->
 
