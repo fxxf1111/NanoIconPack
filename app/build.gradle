@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         // Package name format: com.[your_name].iconpack.[name_of_your_icon_pack]
-        applicationId "com.trance.icon.myios"
+        applicationId "com.trance.icon.tisan"
         minSdkVersion Integer.parseInt(project.MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
         versionCode 100
